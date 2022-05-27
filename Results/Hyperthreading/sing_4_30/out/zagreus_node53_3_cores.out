@@ -1,0 +1,1232 @@
+/pscratch/jarriaran
+#AVX mode
+#1 mode
+#500 times
+Executing the following command: ./Zagreus/main 1 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.80s 
+1.84s 
+1.84s 
+#Frecuency
+CPU MHz:             1971.257
+#1000 times
+Executing the following command: ./Zagreus/main 1 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+3.61s 
+3.67s 
+5.39s 
+#Frecuency
+CPU MHz:             2561.499
+#2000 times
+Executing the following command: ./Zagreus/main 1 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+7.15s 
+7.30s 
+13.24s 
+#Frecuency
+CPU MHz:             2109.385
+#5000 times
+Executing the following command: ./Zagreus/main 1 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+17.77s 
+17.82s 
+23.74s 
+#Frecuency
+CPU MHz:             1092.658
+#2 mode
+#500 times
+Executing the following command: ./Zagreus/main 1 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 1 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.77s 
+2.86s 
+2.86s 
+#Frecuency
+CPU MHz:             1199.863
+#1000 times
+Executing the following command: ./Zagreus/main 1 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+5.72s 
+5.71s 
+7.88s 
+#Frecuency
+CPU MHz:             1138.558
+#2000 times
+Executing the following command: ./Zagreus/main 1 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.13s 
+11.26s 
+11.37s 
+#Frecuency
+CPU MHz:             1407.195
+#5000 times
+Executing the following command: ./Zagreus/main 1 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+28.02s 
+32.26s 
+46.60s 
+#Frecuency
+CPU MHz:             1504.645
+#3 mode
+#500 times
+Executing the following command: ./Zagreus/main 1 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+8.10s 
+8.41s 
+9.54s 
+#Frecuency
+CPU MHz:             1070.137
+#1000 times
+Executing the following command: ./Zagreus/main 1 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+16.63s 
+16.62s 
+17.82s 
+#Frecuency
+CPU MHz:             1697.267
+#2000 times
+Executing the following command: ./Zagreus/main 1 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+32.58s 
+32.63s 
+34.66s 
+#Frecuency
+CPU MHz:             1001.100
+#5000 times
+Executing the following command: ./Zagreus/main 1 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+82.51s 
+82.50s 
+92.79s 
+#Frecuency
+CPU MHz:             1868.407
+#4 mode
+#500 times
+Executing the following command: ./Zagreus/main 1 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+12.08s 
+12.38s 
+12.37s 
+#Frecuency
+CPU MHz:             1720.028
+#1000 times
+Executing the following command: ./Zagreus/main 1 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+24.29s 
+26.05s 
+26.29s 
+#Frecuency
+CPU MHz:             1313.334
+#2000 times
+Executing the following command: ./Zagreus/main 1 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 1 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+49.44s 
+53.53s 
+56.42s 
+#Frecuency
+CPU MHz:             1492.726
+#5000 times
+Executing the following command: ./Zagreus/main 1 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 1 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+121.54s 
+123.18s 
+127.44s 
+#Frecuency
+CPU MHz:             2547.789
+#5 mode
+#500 times
+Executing the following command: ./Zagreus/main 1 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 1 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+19.86s 
+21.85s 
+22.26s 
+#Frecuency
+CPU MHz:             1127.642
+#1000 times
+Executing the following command: ./Zagreus/main 1 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 1 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+38.65s 
+39.69s 
+39.70s 
+#Frecuency
+CPU MHz:             1095.173
+#2000 times
+Executing the following command: ./Zagreus/main 1 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+78.51s 
+78.66s 
+79.63s 
+#Frecuency
+CPU MHz:             1096.346
+#5000 times
+Executing the following command: ./Zagreus/main 1 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 1 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 1 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+194.93s 
+206.15s 
+214.03s 
+#Frecuency
+CPU MHz:             1977.634
+#AVX+VNNI mode
+#8 size
+#1 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+1.19s 
+1.21s 
+1.21s 
+#Frecuency
+CPU MHz:             1225.551
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.34s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             1766.720
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+4.66s 
+4.77s 
+4.76s 
+#Frecuency
+CPU MHz:             1907.196
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.60s 
+11.89s 
+11.89s 
+#Frecuency
+CPU MHz:             1653.695
+#2 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.17s 
+1.22s 
+1.21s 
+#Frecuency
+CPU MHz:             1036.921
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.35s 
+2.40s 
+2.39s 
+#Frecuency
+CPU MHz:             1020.230
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.69s 
+4.78s 
+4.78s 
+#Frecuency
+CPU MHz:             1185.171
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.64s 
+11.88s 
+11.88s 
+#Frecuency
+CPU MHz:             1482.732
+#3 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.17s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1972.066
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.32s 
+2.38s 
+2.38s 
+#Frecuency
+CPU MHz:             1028.621
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.64s 
+4.74s 
+4.74s 
+#Frecuency
+CPU MHz:             1206.824
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.54s 
+11.84s 
+11.84s 
+#Frecuency
+CPU MHz:             1317.009
+#4 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.18s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             2212.041
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.35s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             1033.729
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+4.66s 
+4.78s 
+4.78s 
+#Frecuency
+CPU MHz:             1503.390
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.56s 
+11.59s 
+11.61s 
+#Frecuency
+CPU MHz:             1469.126
+#5 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.34s 
+11.58s 
+11.71s 
+#Frecuency
+CPU MHz:             1245.405
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 1000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+22.57s 
+23.30s 
+25.79s 
+#Frecuency
+CPU MHz:             1035.693
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+45.53s 
+45.98s 
+46.41s 
+#Frecuency
+CPU MHz:             1759.635
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 2 5000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+115.29s 
+115.42s 
+115.83s 
+#Frecuency
+CPU MHz:             1343.044
+#16 size
+#1 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.17s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1464.047
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.35s 
+2.40s 
+2.40s 
+#Frecuency
+CPU MHz:             1510.773
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.65s 
+4.77s 
+4.77s 
+#Frecuency
+CPU MHz:             1461.648
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.57s 
+11.88s 
+11.88s 
+#Frecuency
+CPU MHz:             1123.144
+#2 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.18s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1582.125
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.35s 
+2.40s 
+2.40s 
+#Frecuency
+CPU MHz:             1403.656
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.65s 
+4.78s 
+4.78s 
+#Frecuency
+CPU MHz:             1300.207
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.57s 
+11.88s 
+11.88s 
+#Frecuency
+CPU MHz:             1237.723
+#3 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.20s 
+1.19s 
+1.20s 
+#Frecuency
+CPU MHz:             1056.226
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.34s 
+2.38s 
+2.37s 
+#Frecuency
+CPU MHz:             1284.183
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.67s 
+4.76s 
+4.76s 
+#Frecuency
+CPU MHz:             1140.394
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.56s 
+11.86s 
+11.86s 
+#Frecuency
+CPU MHz:             1166.702
+#4 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+1.19s 
+1.22s 
+1.22s 
+#Frecuency
+CPU MHz:             1009.848
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.35s 
+2.40s 
+2.39s 
+#Frecuency
+CPU MHz:             1012.136
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.65s 
+4.77s 
+4.76s 
+#Frecuency
+CPU MHz:             1005.897
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.58s 
+11.89s 
+11.88s 
+#Frecuency
+CPU MHz:             1405.137
+#5 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.34s 
+11.60s 
+11.61s 
+#Frecuency
+CPU MHz:             1091.418
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+22.79s 
+22.91s 
+23.19s 
+#Frecuency
+CPU MHz:             1275.079
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+45.71s 
+45.88s 
+46.19s 
+#Frecuency
+CPU MHz:             1270.439
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+112.52s 
+115.78s 
+116.79s 
+#Frecuency
+CPU MHz:             1020.388
+#32 size
+#1 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.18s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1847.136
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 1000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+2.36s 
+2.40s 
+2.40s 
+#Frecuency
+CPU MHz:             2413.978
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.69s 
+4.79s 
+4.79s 
+#Frecuency
+CPU MHz:             1358.970
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.59s 
+11.90s 
+11.89s 
+#Frecuency
+CPU MHz:             1365.963
+#2 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.22s 
+1.21s 
+1.22s 
+#Frecuency
+CPU MHz:             1113.008
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.33s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             2200.787
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+4.68s 
+4.79s 
+4.78s 
+#Frecuency
+CPU MHz:             1163.596
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.61s 
+11.89s 
+11.89s 
+#Frecuency
+CPU MHz:             1167.621
+#3 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+1.20s 
+1.19s 
+1.20s 
+#Frecuency
+CPU MHz:             1095.248
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 1000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+2.35s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             1294.744
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.64s 
+4.75s 
+4.75s 
+#Frecuency
+CPU MHz:             1025.881
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.55s 
+11.85s 
+11.85s 
+#Frecuency
+CPU MHz:             1117.819
+#4 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.18s 
+1.21s 
+1.21s 
+#Frecuency
+CPU MHz:             1134.709
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.37s 
+2.40s 
+2.40s 
+#Frecuency
+CPU MHz:             1269.304
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.68s 
+4.78s 
+4.78s 
+#Frecuency
+CPU MHz:             1541.710
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.61s 
+11.88s 
+11.88s 
+#Frecuency
+CPU MHz:             2198.294
+#5 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.30s 
+11.62s 
+11.68s 
+#Frecuency
+CPU MHz:             2546.182
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 1000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+22.57s 
+22.58s 
+22.62s 
+#Frecuency
+CPU MHz:             1203.570
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+45.15s 
+46.31s 
+46.53s 
+#Frecuency
+CPU MHz:             1230.086
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+114.36s 
+114.87s 
+114.95s 
+#Frecuency
+CPU MHz:             1047.906
+#64 size
+#1 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.18s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             2223.106
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 2 1000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.36s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             1534.941
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+4.63s 
+4.76s 
+4.76s 
+#Frecuency
+CPU MHz:             2266.559
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.60s 
+11.89s 
+11.89s 
+#Frecuency
+CPU MHz:             1265.366
+#2 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 500 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+1.17s 
+1.21s 
+1.20s 
+#Frecuency
+CPU MHz:             1497.931
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 1000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+2.36s 
+2.36s 
+2.36s 
+#Frecuency
+CPU MHz:             1340.494
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 2000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+4.66s 
+4.78s 
+4.77s 
+#Frecuency
+CPU MHz:             1127.202
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.58s 
+11.88s 
+11.88s 
+#Frecuency
+CPU MHz:             1622.080
+#3 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+1.19s 
+1.22s 
+1.21s 
+#Frecuency
+CPU MHz:             1181.719
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.34s 
+2.38s 
+2.38s 
+#Frecuency
+CPU MHz:             1155.387
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.65s 
+4.74s 
+4.74s 
+#Frecuency
+CPU MHz:             1470.741
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+11.54s 
+11.85s 
+11.85s 
+#Frecuency
+CPU MHz:             1347.128
+#4 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+1.21s 
+1.20s 
+1.21s 
+#Frecuency
+CPU MHz:             1033.331
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+2.33s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             1085.045
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+4.69s 
+4.76s 
+4.79s 
+#Frecuency
+CPU MHz:             1509.648
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+11.62s 
+11.88s 
+11.88s 
+#Frecuency
+CPU MHz:             1420.269
+#5 mode
+#500 times
+Executing the following command: ./Zagreus/main 2 500 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 500 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+Executing the following command: ./Zagreus/main 2 500 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.35s 
+11.65s 
+11.70s 
+#Frecuency
+CPU MHz:             2311.738
+#1000 times
+Executing the following command: ./Zagreus/main 2 1000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 1000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 1000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+22.59s 
+23.16s 
+23.17s 
+#Frecuency
+CPU MHz:             1000.103
+#2000 times
+Executing the following command: ./Zagreus/main 2 2000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 2000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+
+45.51s 
+45.97s 
+46.52s 
+#Frecuency
+CPU MHz:             1150.945
+#5000 times
+Executing the following command: ./Zagreus/main 2 5000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+Executing the following command: ./Zagreus/main 2 5000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+Executing the following command: ./Zagreus/main 2 5000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+
+113.59s 
+115.72s 
+116.27s 
+#Frecuency
+CPU MHz:             1734.275

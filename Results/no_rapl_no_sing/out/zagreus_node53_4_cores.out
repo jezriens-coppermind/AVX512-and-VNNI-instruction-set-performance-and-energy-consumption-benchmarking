@@ -1,0 +1,732 @@
+/pscratch/jarriaran
+#AVX mode
+#1 mode
+#500 times
+1.79s 
+1.79s 
+1.83s 
+3.33s 
+#Frecuency
+CPU MHz:             1000.778
+#1000 times
+3.56s 
+3.57s 
+3.62s 
+4.39s 
+#Frecuency
+CPU MHz:             1000.791
+#2000 times
+7.10s 
+7.11s 
+7.22s 
+7.22s 
+#Frecuency
+CPU MHz:             2097.893
+#5000 times
+17.74s 
+17.89s 
+17.95s 
+18.09s 
+#Frecuency
+CPU MHz:             1000.814
+#2 mode
+#500 times
+2.77s 
+2.84s 
+2.84s 
+3.23s 
+#Frecuency
+CPU MHz:             1000.282
+#1000 times
+5.51s 
+5.64s 
+5.64s 
+8.39s 
+#Frecuency
+CPU MHz:             1014.976
+#2000 times
+11.17s 
+12.96s 
+13.10s 
+15.86s 
+#Frecuency
+CPU MHz:             1001.069
+#5000 times
+27.50s 
+27.90s 
+27.97s 
+32.68s 
+#Frecuency
+CPU MHz:             1024.429
+#3 mode
+#500 times
+8.05s 
+8.14s 
+8.62s 
+8.97s 
+#Frecuency
+CPU MHz:             1000.839
+#1000 times
+16.09s 
+16.29s 
+17.07s 
+17.24s 
+#Frecuency
+CPU MHz:             1171.267
+#2000 times
+32.31s 
+32.52s 
+32.68s 
+34.33s 
+#Frecuency
+CPU MHz:             1000.038
+#5000 times
+80.77s 
+81.25s 
+96.49s 
+97.23s 
+#Frecuency
+CPU MHz:             1000.792
+#4 mode
+#500 times
+12.37s 
+12.89s 
+13.30s 
+13.47s 
+#Frecuency
+CPU MHz:             1283.954
+#1000 times
+24.37s 
+24.52s 
+27.75s 
+28.87s 
+#Frecuency
+CPU MHz:             1017.938
+#2000 times
+48.24s 
+48.89s 
+49.00s 
+49.39s 
+#Frecuency
+CPU MHz:             1000.481
+#5000 times
+120.29s 
+127.20s 
+127.24s 
+131.61s 
+#Frecuency
+CPU MHz:             1000.161
+#5 mode
+#500 times
+19.35s 
+19.82s 
+19.95s 
+20.03s 
+#Frecuency
+CPU MHz:             1094.563
+#1000 times
+39.12s 
+39.14s 
+39.42s 
+39.78s 
+#Frecuency
+CPU MHz:             1000.790
+#2000 times
+78.20s 
+78.21s 
+79.36s 
+82.77s 
+#Frecuency
+CPU MHz:             1000.238
+#5000 times
+194.96s 
+197.33s 
+198.68s 
+201.10s 
+#Frecuency
+CPU MHz:             1000.067
+#AVX+VNNI mode
+#8 size
+#1 mode
+#500 times
+1.19s 
+1.20s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1509.595
+#1000 times
+2.33s 
+2.34s 
+2.37s 
+2.37s 
+#Frecuency
+CPU MHz:             1965.802
+#2000 times
+4.63s 
+4.64s 
+4.73s 
+4.73s 
+#Frecuency
+CPU MHz:             1495.439
+#5000 times
+11.56s 
+11.57s 
+11.74s 
+11.74s 
+#Frecuency
+CPU MHz:             1511.910
+#2 mode
+#500 times
+1.17s 
+1.18s 
+1.19s 
+1.19s 
+#Frecuency
+CPU MHz:             1255.494
+#1000 times
+2.34s 
+2.34s 
+2.38s 
+2.38s 
+#Frecuency
+CPU MHz:             1564.537
+#2000 times
+4.62s 
+4.63s 
+4.67s 
+4.67s 
+#Frecuency
+CPU MHz:             1141.362
+#5000 times
+11.57s 
+11.57s 
+11.75s 
+11.75s 
+#Frecuency
+CPU MHz:             1986.157
+#3 mode
+#500 times
+1.17s 
+1.18s 
+1.19s 
+1.19s 
+#Frecuency
+CPU MHz:             1502.785
+#1000 times
+2.32s 
+2.32s 
+2.36s 
+2.36s 
+#Frecuency
+CPU MHz:             1322.158
+#2000 times
+4.62s 
+4.62s 
+4.73s 
+4.73s 
+#Frecuency
+CPU MHz:             1503.328
+#5000 times
+11.53s 
+11.54s 
+11.74s 
+11.75s 
+#Frecuency
+CPU MHz:             1087.192
+#4 mode
+#500 times
+1.18s 
+1.18s 
+1.21s 
+1.21s 
+#Frecuency
+CPU MHz:             1932.468
+#1000 times
+2.33s 
+2.33s 
+2.37s 
+2.37s 
+#Frecuency
+CPU MHz:             1079.878
+#2000 times
+4.64s 
+4.64s 
+4.71s 
+4.71s 
+#Frecuency
+CPU MHz:             1257.422
+#5000 times
+11.57s 
+11.57s 
+11.81s 
+11.81s 
+#Frecuency
+CPU MHz:             1254.513
+#5 mode
+#500 times
+10.42s 
+10.53s 
+10.54s 
+10.60s 
+#Frecuency
+CPU MHz:             1510.692
+#1000 times
+20.84s 
+20.90s 
+21.11s 
+21.21s 
+#Frecuency
+CPU MHz:             1000.192
+#2000 times
+41.43s 
+41.61s 
+42.45s 
+51.86s 
+#Frecuency
+CPU MHz:             1000.341
+#5000 times
+104.16s 
+104.68s 
+104.84s 
+106.26s 
+#Frecuency
+CPU MHz:             999.973
+#16 size
+#1 mode
+#500 times
+1.17s 
+1.19s 
+1.20s 
+1.21s 
+#Frecuency
+CPU MHz:             1157.460
+#1000 times
+2.33s 
+2.33s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             2026.682
+#2000 times
+4.64s 
+4.65s 
+4.74s 
+4.74s 
+#Frecuency
+CPU MHz:             1503.583
+#5000 times
+11.57s 
+11.57s 
+11.80s 
+11.80s 
+#Frecuency
+CPU MHz:             2179.131
+#2 mode
+#500 times
+1.17s 
+1.18s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1212.157
+#1000 times
+2.33s 
+2.34s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             1500.707
+#2000 times
+4.64s 
+4.64s 
+4.71s 
+4.72s 
+#Frecuency
+CPU MHz:             1160.696
+#5000 times
+11.56s 
+11.57s 
+11.78s 
+11.78s 
+#Frecuency
+CPU MHz:             1038.811
+#3 mode
+#500 times
+1.17s 
+1.17s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1850.942
+#1000 times
+2.32s 
+2.33s 
+2.38s 
+2.38s 
+#Frecuency
+CPU MHz:             1489.561
+#2000 times
+4.62s 
+4.63s 
+4.72s 
+4.72s 
+#Frecuency
+CPU MHz:             1201.824
+#5000 times
+11.53s 
+11.54s 
+11.69s 
+11.69s 
+#Frecuency
+CPU MHz:             1303.503
+#4 mode
+#500 times
+1.18s 
+1.18s 
+1.21s 
+1.21s 
+#Frecuency
+CPU MHz:             1577.419
+#1000 times
+2.33s 
+2.34s 
+2.38s 
+2.38s 
+#Frecuency
+CPU MHz:             1295.671
+#2000 times
+4.64s 
+4.65s 
+4.72s 
+4.72s 
+#Frecuency
+CPU MHz:             1142.680
+#5000 times
+11.57s 
+11.58s 
+11.76s 
+11.76s 
+#Frecuency
+CPU MHz:             1501.069
+#5 mode
+#500 times
+10.42s 
+10.44s 
+10.58s 
+10.61s 
+#Frecuency
+CPU MHz:             1140.518
+#1000 times
+20.78s 
+20.85s 
+21.13s 
+21.25s 
+#Frecuency
+CPU MHz:             1185.572
+#2000 times
+41.60s 
+42.08s 
+42.39s 
+44.60s 
+#Frecuency
+CPU MHz:             1000.731
+#5000 times
+104.49s 
+104.62s 
+104.67s 
+105.75s 
+#Frecuency
+CPU MHz:             1000.468
+#32 size
+#1 mode
+#500 times
+1.17s 
+1.18s 
+1.19s 
+1.19s 
+#Frecuency
+CPU MHz:             1571.481
+#1000 times
+2.33s 
+2.33s 
+2.36s 
+2.36s 
+#Frecuency
+CPU MHz:             1257.325
+#2000 times
+4.64s 
+4.64s 
+4.73s 
+4.73s 
+#Frecuency
+CPU MHz:             1418.319
+#5000 times
+11.57s 
+11.58s 
+11.78s 
+11.78s 
+#Frecuency
+CPU MHz:             1530.324
+#2 mode
+#500 times
+1.17s 
+1.18s 
+1.19s 
+1.19s 
+#Frecuency
+CPU MHz:             1503.606
+#1000 times
+2.32s 
+2.33s 
+2.39s 
+2.39s 
+#Frecuency
+CPU MHz:             1722.470
+#2000 times
+4.64s 
+4.64s 
+4.72s 
+4.72s 
+#Frecuency
+CPU MHz:             2001.189
+#5000 times
+11.57s 
+11.58s 
+11.79s 
+11.79s 
+#Frecuency
+CPU MHz:             1231.124
+#3 mode
+#500 times
+1.17s 
+1.17s 
+1.18s 
+1.18s 
+#Frecuency
+CPU MHz:             2100.396
+#1000 times
+2.31s 
+2.32s 
+2.37s 
+2.37s 
+#Frecuency
+CPU MHz:             1000.621
+#2000 times
+4.63s 
+4.64s 
+4.69s 
+4.69s 
+#Frecuency
+CPU MHz:             1223.230
+#5000 times
+11.53s 
+11.54s 
+11.73s 
+11.74s 
+#Frecuency
+CPU MHz:             1324.880
+#4 mode
+#500 times
+1.16s 
+1.18s 
+1.19s 
+1.19s 
+#Frecuency
+CPU MHz:             1259.140
+#1000 times
+2.31s 
+2.32s 
+2.36s 
+2.36s 
+#Frecuency
+CPU MHz:             1136.808
+#2000 times
+4.64s 
+4.65s 
+4.74s 
+4.74s 
+#Frecuency
+CPU MHz:             1506.749
+#5000 times
+11.57s 
+11.57s 
+11.77s 
+11.78s 
+#Frecuency
+CPU MHz:             1981.398
+#5 mode
+#500 times
+10.43s 
+10.54s 
+10.57s 
+10.59s 
+#Frecuency
+CPU MHz:             2097.003
+#1000 times
+20.78s 
+20.88s 
+21.08s 
+21.37s 
+#Frecuency
+CPU MHz:             1036.224
+#2000 times
+41.84s 
+41.86s 
+41.90s 
+44.81s 
+#Frecuency
+CPU MHz:             1000.488
+#5000 times
+103.98s 
+104.04s 
+105.15s 
+108.28s 
+#Frecuency
+CPU MHz:             2808.253
+#64 size
+#1 mode
+#500 times
+1.18s 
+1.18s 
+1.20s 
+1.20s 
+#Frecuency
+CPU MHz:             1042.409
+#1000 times
+2.31s 
+2.33s 
+2.35s 
+2.35s 
+#Frecuency
+CPU MHz:             1497.723
+#2000 times
+4.64s 
+4.65s 
+4.73s 
+4.73s 
+#Frecuency
+CPU MHz:             1302.900
+#5000 times
+11.57s 
+11.58s 
+11.77s 
+11.78s 
+#Frecuency
+CPU MHz:             1017.431
+#2 mode
+#500 times
+1.18s 
+1.18s 
+1.18s 
+1.19s 
+#Frecuency
+CPU MHz:             1038.422
+#1000 times
+2.32s 
+2.33s 
+2.37s 
+2.37s 
+#Frecuency
+CPU MHz:             1483.183
+#2000 times
+4.63s 
+4.65s 
+4.72s 
+4.72s 
+#Frecuency
+CPU MHz:             2094.772
+#5000 times
+11.56s 
+11.57s 
+11.75s 
+11.76s 
+#Frecuency
+CPU MHz:             1076.206
+#3 mode
+#500 times
+1.17s 
+1.18s 
+1.18s 
+1.18s 
+#Frecuency
+CPU MHz:             1083.235
+#1000 times
+2.32s 
+2.33s 
+2.36s 
+2.36s 
+#Frecuency
+CPU MHz:             2097.437
+#2000 times
+4.62s 
+4.63s 
+4.71s 
+4.71s 
+#Frecuency
+CPU MHz:             1042.244
+#5000 times
+11.53s 
+11.54s 
+11.76s 
+11.76s 
+#Frecuency
+CPU MHz:             1253.713
+#4 mode
+#500 times
+1.16s 
+1.19s 
+1.19s 
+1.19s 
+#Frecuency
+CPU MHz:             1506.954
+#1000 times
+2.33s 
+2.33s 
+2.36s 
+2.36s 
+#Frecuency
+CPU MHz:             1255.751
+#2000 times
+4.64s 
+4.65s 
+4.72s 
+4.72s 
+#Frecuency
+CPU MHz:             1034.387
+#5000 times
+11.57s 
+11.58s 
+11.76s 
+11.77s 
+#Frecuency
+CPU MHz:             1495.671
+#5 mode
+#500 times
+10.37s 
+10.43s 
+10.65s 
+11.33s 
+#Frecuency
+CPU MHz:             1000.242
+#1000 times
+21.00s 
+21.04s 
+21.13s 
+21.45s 
+#Frecuency
+CPU MHz:             1034.932
+#2000 times
+41.84s 
+41.84s 
+42.01s 
+45.54s 
+#Frecuency
+CPU MHz:             999.948
+#5000 times
+104.99s 
+105.12s 
+105.44s 
+111.71s 
+#Frecuency
+CPU MHz:             2400.964

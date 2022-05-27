@@ -1,0 +1,3032 @@
+/pscratch/jarriaran
+#AVX mode
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728223
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728223
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728223
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 1
+1.86s 
+1.86s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.8660
+Recorded wall time (s):   1.8670
+Domain intel-rapl:0 (package-0) energy consumption (j):  62.9960
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.7599
+Domain intel-rapl:0 (package-0) energy consumption (j):  62.9960
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.7418
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   9.9772
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   9.9772
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3440
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3469
+2.50s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5050
+Domain intel-rapl:0 (package-0) energy consumption (j):  80.8346
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.2693
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.0956
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.8286
+#Frecuency
+CPU MHz:             1056.635
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728226
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728226
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728226
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 1
+3.62s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   3.6300
+Domain intel-rapl:0 (package-0) energy consumption (j): 124.7272
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3601
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  19.3691
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3358
+3.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   3.7070
+Domain intel-rapl:0 (package-0) energy consumption (j): 128.4117
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.6403
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  19.3691
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2250
+4.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7000
+Domain intel-rapl:0 (package-0) energy consumption (j): 158.2968
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.6802
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  24.8814
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2939
+#Frecuency
+CPU MHz:             1213.186
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728231
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728231
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728231
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 1
+7.45s 
+** RAPL-logger - Process terminated, computing results
+7.45s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   7.4600
+Recorded wall time (s):   7.4600
+Domain intel-rapl:0 (package-0) energy consumption (j): 261.2084
+Domain intel-rapl:0 (package-0) energy consumption (j): 261.2084
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0145
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0145
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  39.3000
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2681
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  39.3000
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2681
+9.90s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   9.9100
+Domain intel-rapl:0 (package-0) energy consumption (j): 317.1543
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.0035
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  47.4146
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.7845
+#Frecuency
+CPU MHz:             1019.903
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728241
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728241
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728241
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 1
+18.23s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  18.2360
+Domain intel-rapl:0 (package-0) energy consumption (j): 636.6811
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9134
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  96.9222
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3149
+18.31s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  18.3190
+Domain intel-rapl:0 (package-0) energy consumption (j): 640.2888
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9522
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  97.2003
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3060
+24.41s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  24.4200
+Domain intel-rapl:0 (package-0) energy consumption (j): 811.7086
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.2395
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 129.5163
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3037
+#Frecuency
+CPU MHz:             1078.382
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728265
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728265
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 2
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728265
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 2
+2.88s 
+2.88s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.8910
+Recorded wall time (s):   2.8900
+Domain intel-rapl:0 (package-0) energy consumption (j): 101.1778
+Domain intel-rapl:0 (package-0) energy consumption (j): 101.1778
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9975
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0096
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  15.3706
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  15.3706
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3186
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3167
+3.27s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   3.2820
+Domain intel-rapl:0 (package-0) energy consumption (j): 109.3071
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.3050
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  16.5890
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0546
+#Frecuency
+CPU MHz:             1172.106
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728269
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728269
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728269
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 2
+5.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   5.7260
+Domain intel-rapl:0 (package-0) energy consumption (j): 199.3744
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8191
+5.74s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   5.7490
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  30.2399
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2811
+Domain intel-rapl:0 (package-0) energy consumption (j): 200.3730
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8535
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  30.3955
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2871
+6.65s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   6.6580
+Domain intel-rapl:0 (package-0) energy consumption (j): 224.7481
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.7561
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  34.7924
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2256
+#Frecuency
+CPU MHz:             1420.579
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728276
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728276
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728276
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 2
+11.52s 
+11.53s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.5310
+Recorded wall time (s):  11.5330
+Domain intel-rapl:0 (package-0) energy consumption (j): 403.6336
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9981
+Domain intel-rapl:0 (package-0) energy consumption (j): 403.6336
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0042
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  61.3134
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  61.3134
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3163
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3173
+14.16s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  14.1750
+Domain intel-rapl:0 (package-0) energy consumption (j): 459.0558
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.3849
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  69.4566
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.8999
+#Frecuency
+CPU MHz:             1033.369
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728290
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728290
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728290
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 2
+28.59s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  28.6060
+28.61s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  28.6160
+Domain intel-rapl:0 (package-0) energy consumption (j): 986.7154
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4933
+Domain intel-rapl:0 (package-0) energy consumption (j): 987.6986
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.5156
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 152.1074
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3173
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 152.1074
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3155
+34.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  34.2010
+Domain intel-rapl:0 (package-0) energy consumption (j): 1140.3318
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.3421
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 181.4184
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3045
+#Frecuency
+CPU MHz:             2012.219
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728324
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728324
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728324
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 3
+8.27s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   8.2800
+Domain intel-rapl:0 (package-0) energy consumption (j): 280.0133
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8180
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  43.6761
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2749
+8.37s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   8.3800
+Domain intel-rapl:0 (package-0) energy consumption (j): 283.3614
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8140
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  44.2028
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2748
+8.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   8.7220
+Domain intel-rapl:0 (package-0) energy consumption (j): 290.7767
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.3383
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  45.3452
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1989
+#Frecuency
+CPU MHz:             1136.159
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728333
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728333
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728333
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 3
+16.33s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  16.3430
+Domain intel-rapl:0 (package-0) energy consumption (j): 570.3365
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8979
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  86.5862
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2981
+17.65s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  17.6610
+Domain intel-rapl:0 (package-0) energy consumption (j): 612.1146
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.6591
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  93.1415
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2739
+19.24s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  19.2440
+Domain intel-rapl:0 (package-0) energy consumption (j): 655.7138
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.0737
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 101.4164
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2700
+#Frecuency
+CPU MHz:             1000.658
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728352
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728352
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728352
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 3
+32.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  32.7070
+Domain intel-rapl:0 (package-0) energy consumption (j): 1059.0328
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.3794
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 174.4810
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3347
+33.14s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  33.1500
+Domain intel-rapl:0 (package-0) energy consumption (j): 1071.8408
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.3331
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 176.6958
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3302
+33.33s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  33.3400
+Domain intel-rapl:0 (package-0) energy consumption (j): 1078.1387
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.3377
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 177.7790
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3323
+#Frecuency
+CPU MHz:             1504.217
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728386
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728386
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728386
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 3
+83.05s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  83.0600
+Domain intel-rapl:0 (package-0) energy consumption (j): 2883.1210
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7113
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 443.6067
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3408
+83.18s 
+** RAPL-logger - Process terminated, computing results
+83.19s 
+Recorded wall time (s):  83.1900
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  83.1940
+Domain intel-rapl:0 (package-0) energy consumption (j): 2886.7647
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7009
+Domain intel-rapl:0 (package-0) energy consumption (j): 2886.7647
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.6992
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 444.1539
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3390
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 444.1539
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3388
+#Frecuency
+CPU MHz:             1047.864
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728469
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728469
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728469
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 4
+12.49s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.5030
+Domain intel-rapl:0 (package-0) energy consumption (j): 433.0484
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.6356
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  66.4891
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3179
+13.52s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  13.5260
+Domain intel-rapl:0 (package-0) energy consumption (j): 463.8246
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.2913
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  71.9238
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3174
+14.29s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  14.3030
+Domain intel-rapl:0 (package-0) energy consumption (j): 485.4270
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.9388
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  75.8089
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3002
+#Frecuency
+CPU MHz:             1337.494
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728483
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728483
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728483
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 4
+24.67s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  24.6760
+Domain intel-rapl:0 (package-0) energy consumption (j): 859.2021
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8193
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 131.4994
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3290
+25.08s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  25.0900
+Domain intel-rapl:0 (package-0) energy consumption (j): 871.8161
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7476
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 133.6884
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3284
+25.86s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  25.8670
+Domain intel-rapl:0 (package-0) energy consumption (j): 888.1709
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3361
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 136.1079
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2618
+#Frecuency
+CPU MHz:             1499.019
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728509
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728509
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728509
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 4
+49.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  49.3640
+Domain intel-rapl:0 (package-0) energy consumption (j): 1613.0699
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.6771
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 263.1937
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3317
+49.57s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  49.5730
+Domain intel-rapl:0 (package-0) energy consumption (j): 1619.6097
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.6712
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 264.2988
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3315
+54.87s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  54.8750
+Domain intel-rapl:0 (package-0) energy consumption (j): 1763.1973
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.1312
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 292.1264
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3235
+#Frecuency
+CPU MHz:             2231.545
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728564
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728564
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728564
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 4
+123.61s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 123.6280
+Domain intel-rapl:0 (package-0) energy consumption (j): 4142.3481
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.5066
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 667.5211
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3994
+124.02s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 124.0300
+Domain intel-rapl:0 (package-0) energy consumption (j): 4152.7357
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.4817
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 669.7439
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3999
+125.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 125.6850
+Domain intel-rapl:0 (package-0) energy consumption (j): 4199.7607
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.4150
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 678.1515
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3956
+#Frecuency
+CPU MHz:             1036.949
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728690
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728690
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728690
+** RAPL-logger - Profiling: ./Zagreus/main 1 500 16 5
+19.90s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  19.9030
+Domain intel-rapl:0 (package-0) energy consumption (j): 690.3199
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.6842
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 107.3386
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3931
+20.34s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  20.3500
+Domain intel-rapl:0 (package-0) energy consumption (j): 706.6452
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7246
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 109.9201
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.4015
+21.24s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.2480
+Domain intel-rapl:0 (package-0) energy consumption (j): 729.7957
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3466
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 114.4086
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3844
+#Frecuency
+CPU MHz:             1026.608
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728711
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728711
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 5
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728712
+** RAPL-logger - Profiling: ./Zagreus/main 1 1000 16 5
+39.31s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  39.3240
+Domain intel-rapl:0 (package-0) energy consumption (j): 1367.3510
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7714
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 212.2519
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3975
+40.32s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  40.3320
+40.33s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  40.3430
+Domain intel-rapl:0 (package-0) energy consumption (j): 1399.9678
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7111
+Domain intel-rapl:0 (package-0) energy consumption (j): 1400.2387
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7083
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 217.2254
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3859
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 217.2747
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3857
+#Frecuency
+CPU MHz:             1714.430
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728752
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728752
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728752
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 5
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 5
+** RAPL-logger - Profiling: ./Zagreus/main 1 2000 16 5
+78.58s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  78.5880
+Domain intel-rapl:0 (package-0) energy consumption (j): 2732.2976
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7674
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 424.0894
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3964
+80.64s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  80.6470
+80.66s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  80.6680
+Domain intel-rapl:0 (package-0) energy consumption (j): 2802.9019
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7552
+Domain intel-rapl:0 (package-0) energy consumption (j): 2802.9019
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7461
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 435.2565
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3971
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 435.2565
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3957
+#Frecuency
+CPU MHz:             1341.956
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728833
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728833
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652728833
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 5
+** RAPL-logger - Profiling: ./Zagreus/main 1 5000 16 5
+199.48s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 199.4900
+Domain intel-rapl:0 (package-0) energy consumption (j): 6948.2786
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8302
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 1068.3185
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3552
+201.54s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 201.5510
+Domain intel-rapl:0 (package-0) energy consumption (j): 7015.2316
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8062
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 1079.3794
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3554
+207.25s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 207.2560
+Domain intel-rapl:0 (package-0) energy consumption (j): 7169.9575
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.5947
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 1109.1728
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3517
+#Frecuency
+CPU MHz:             1804.077
+#AVX+VNNI mode
+#8 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729040
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729040
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729040
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 1
+1.20s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2090
+1.21s 
+1.21s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2140
+Recorded wall time (s):   1.2130
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2252
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.0986
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2252
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.9582
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2252
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.9862
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2438
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1645
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2438
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1432
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2438
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1474
+#Frecuency
+CPU MHz:             1319.197
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729041
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729041
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729041
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 1
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3730
+Domain intel-rapl:0 (package-0) energy consumption (j):  81.6346
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4014
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.7385
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3681
+2.42s 
+2.42s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4260
+Recorded wall time (s):   2.4290
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.2975
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1597
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.2975
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1163
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8140
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2819
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8140
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2754
+#Frecuency
+CPU MHz:             1373.536
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729044
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729044
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729044
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 1
+4.76s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7720
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.0297
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2116
+4.80s 
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6711
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3795
+4.80s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8090
+Recorded wall time (s):   4.8100
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.0297
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.0297
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9334
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9407
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6711
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3370
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6711
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3381
+#Frecuency
+CPU MHz:             1022.721
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729049
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729049
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729049
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 1
+11.75s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7610
+Domain intel-rapl:0 (package-0) energy consumption (j): 418.8079
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6099
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.0567
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3615
+12.08s 
+12.09s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0930
+Recorded wall time (s):  12.0970
+Domain intel-rapl:0 (package-0) energy consumption (j): 430.2744
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5804
+Domain intel-rapl:0 (package-0) energy consumption (j): 430.2744
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5687
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.7329
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3529
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.7329
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3512
+#Frecuency
+CPU MHz:             1223.922
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729061
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729061
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729061
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 2
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2020
+1.21s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2160
+1.21s 
+** RAPL-logger - Process terminated, computing results
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.8218
+Recorded wall time (s):   1.2210
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7935
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.8218
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3929
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.8218
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.2521
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1555
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1210
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1555
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0621
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1555
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0413
+#Frecuency
+CPU MHz:             1480.301
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729062
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729062
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729062
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 2
+2.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3620
+Domain intel-rapl:0 (package-0) energy consumption (j):  82.0351
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7312
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.3330
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2214
+2.41s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4140
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.7356
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5160
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8833
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3369
+2.45s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4590
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.7356
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8660
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8833
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2393
+#Frecuency
+CPU MHz:             1873.464
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729065
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729065
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729065
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 2
+4.72s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7380
+Domain intel-rapl:0 (package-0) energy consumption (j): 164.3046
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.6780
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.0606
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2893
+4.81s 
+4.80s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8140
+Recorded wall time (s):   4.8110
+Domain intel-rapl:0 (package-0) energy consumption (j): 167.9077
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9008
+Domain intel-rapl:0 (package-0) energy consumption (j): 167.9077
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8790
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6140
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3241
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6140
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3207
+#Frecuency
+CPU MHz:             2003.416
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729070
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729070
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729070
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 2
+11.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7470
+Domain intel-rapl:0 (package-0) energy consumption (j): 415.3460
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3576
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.9697
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3605
+12.05s 
+12.05s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0610
+Recorded wall time (s):  12.0650
+Domain intel-rapl:0 (package-0) energy consumption (j): 424.1312
+Domain intel-rapl:0 (package-0) energy consumption (j): 424.1312
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1538
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1655
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.0718
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3105
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.0718
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3123
+#Frecuency
+CPU MHz:             1159.448
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729082
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729082
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729082
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 3
+1.20s 
+** RAPL-logger - Process terminated, computing results
+1.20s 
+Recorded wall time (s):   1.2060
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2110
+1.21s 
+** RAPL-logger - Process terminated, computing results
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.5313
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4372
+Recorded wall time (s):   1.2240
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.5313
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.2950
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1425
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0933
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.5313
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.9308
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1425
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0723
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1425
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0184
+#Frecuency
+CPU MHz:             1105.356
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729083
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729083
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729083
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 3
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3700
+Domain intel-rapl:0 (package-0) energy consumption (j):  81.5311
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4013
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.9078
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.4463
+2.41s 
+** RAPL-logger - Process terminated, computing results
+2.41s 
+Recorded wall time (s):   2.4180
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4210
+Domain intel-rapl:0 (package-0) energy consumption (j):  84.8575
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0941
+Domain intel-rapl:0 (package-0) energy consumption (j):  84.8575
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0506
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.9078
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3382
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.9078
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3316
+#Frecuency
+CPU MHz:             1097.631
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729086
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729086
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729086
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 3
+4.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7060
+Domain intel-rapl:0 (package-0) energy consumption (j): 166.5553
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3921
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.0010
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3126
+4.81s 
+4.81s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8140
+Recorded wall time (s):   4.8190
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.0882
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.0882
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3320
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2953
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.5362
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.5362
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3046
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2991
+#Frecuency
+CPU MHz:             1182.263
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729091
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729091
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729091
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 3
+11.89s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9020
+Domain intel-rapl:0 (package-0) energy consumption (j): 417.4341
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0726
+11.92s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9330
+11.93s 
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.3448
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3222
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9390
+Domain intel-rapl:0 (package-0) energy consumption (j): 417.4341
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9815
+Domain intel-rapl:0 (package-0) energy consumption (j): 417.4341
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9639
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.3448
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3084
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.3448
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3057
+#Frecuency
+CPU MHz:             1105.798
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729103
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729103
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729103
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 4
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2010
+1.21s 
+** RAPL-logger - Process terminated, computing results
+1.21s 
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.9782
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.1201
+Recorded wall time (s):   1.2160
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2220
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1742
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.9782
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1409
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.6992
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.9782
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.5337
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1742
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0774
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1742
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0525
+#Frecuency
+CPU MHz:             1637.435
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729104
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729104
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729104
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 4
+2.33s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3440
+Domain intel-rapl:0 (package-0) energy consumption (j):  83.0501
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4309
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.2484
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2254
+2.42s 
+2.42s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4320
+Recorded wall time (s):   2.4320
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.7487
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6697
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.7487
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6697
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8027
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2643
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8027
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2643
+#Frecuency
+CPU MHz:             1063.946
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729107
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729107
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729107
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 4
+4.76s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7780
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.1509
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1927
+4.79s 
+4.79s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7990
+Recorded wall time (s):   4.8030
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6852
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3757
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.1509
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0096
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.1509
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0387
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6852
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3477
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6852
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3522
+#Frecuency
+CPU MHz:             1091.306
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729111
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729111
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729111
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 4
+11.75s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7620
+Domain intel-rapl:0 (package-0) energy consumption (j): 415.3913
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3164
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.8782
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3459
+12.05s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0570
+12.06s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0670
+Domain intel-rapl:0 (package-0) energy consumption (j): 422.7829
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0653
+Domain intel-rapl:0 (package-0) energy consumption (j): 422.7829
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0363
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.9840
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3068
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.9840
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3024
+#Frecuency
+CPU MHz:             1176.065
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729124
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729124
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729124
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 8 5
+10.61s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.6190
+Domain intel-rapl:0 (package-0) energy consumption (j): 387.2962
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4720
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  56.7615
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3453
+10.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.7360
+Domain intel-rapl:0 (package-0) energy consumption (j): 391.4798
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4642
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.3300
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3400
+10.83s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.8410
+Domain intel-rapl:0 (package-0) energy consumption (j): 391.4798
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.1110
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.3300
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2883
+#Frecuency
+CPU MHz:             1799.358
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729135
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729135
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729135
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 8 5
+21.33s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.3410
+Domain intel-rapl:0 (package-0) energy consumption (j): 778.1892
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4645
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 114.0170
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3426
+21.43s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.4350
+Domain intel-rapl:0 (package-0) energy consumption (j): 781.6779
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4674
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 114.5309
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3432
+21.88s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.8930
+Domain intel-rapl:0 (package-0) energy consumption (j): 794.6826
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2985
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 116.7954
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3348
+#Frecuency
+CPU MHz:             2100.000
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729157
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729157
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729157
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 8 5
+42.54s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  42.5530
+Domain intel-rapl:0 (package-0) energy consumption (j): 1549.9763
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4246
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 227.6223
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3491
+43.22s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.2310
+Domain intel-rapl:0 (package-0) energy consumption (j): 1572.6361
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3775
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 230.9675
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3426
+43.30s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.3030
+Domain intel-rapl:0 (package-0) energy consumption (j): 1576.2502
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4005
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 231.5314
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3468
+#Frecuency
+CPU MHz:             2097.449
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729200
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729200
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729200
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 8 5
+107.75s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 107.7630
+Domain intel-rapl:0 (package-0) energy consumption (j): 3914.0537
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3209
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 576.9925
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3543
+107.94s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 107.9570
+Domain intel-rapl:0 (package-0) energy consumption (j): 3919.3396
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3046
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 578.0218
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3542
+110.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 110.2000
+Domain intel-rapl:0 (package-0) energy consumption (j): 3969.3155
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.0192
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 584.9566
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3081
+#Frecuency
+CPU MHz:             1097.789
+#16 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729310
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729310
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729310
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 1
+1.18s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.1880
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.4801
+1.20s 
+1.20s 
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.0742
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2090
+Recorded wall time (s):   1.2120
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1977
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2169
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.4801
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.4823
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.4801
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.3994
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1977
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1263
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1977
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1136
+#Frecuency
+CPU MHz:             2097.783
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729312
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729312
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729312
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 1
+2.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3630
+Domain intel-rapl:0 (package-0) energy consumption (j):  82.0387
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7180
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.2732
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1939
+2.40s 
+2.40s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4120
+Recorded wall time (s):   2.4130
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.7094
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5346
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.7094
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5199
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8205
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3153
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8205
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3131
+#Frecuency
+CPU MHz:             1031.456
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729314
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729314
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729314
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 1
+4.76s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7770
+Domain intel-rapl:0 (package-0) energy consumption (j): 165.6102
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.6682
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6739
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3745
+4.81s 
+4.82s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8230
+Recorded wall time (s):   4.8260
+Domain intel-rapl:0 (package-0) energy consumption (j): 169.0852
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0581
+Domain intel-rapl:0 (package-0) energy consumption (j): 169.0852
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0363
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6739
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3232
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6739
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3199
+#Frecuency
+CPU MHz:             1028.627
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729319
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729319
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729319
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 1
+11.90s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9180
+Domain intel-rapl:0 (package-0) energy consumption (j): 415.7113
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8810
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.4762
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3261
+12.00s 
+** RAPL-logger - Process terminated, computing results
+12.00s 
+Recorded wall time (s):  12.0060
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0100
+Domain intel-rapl:0 (package-0) energy consumption (j): 419.3845
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9312
+Domain intel-rapl:0 (package-0) energy consumption (j): 419.3845
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9196
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.0293
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3331
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.0293
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3313
+#Frecuency
+CPU MHz:             1512.849
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729331
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729331
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729331
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 2
+1.20s 
+1.20s 
+** RAPL-logger - Process terminated, computing results
+1.20s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2060
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2090
+Recorded wall time (s):   1.2120
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.6273
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.5168
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.6273
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4312
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.6273
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3459
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1559
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1044
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1559
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0918
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1559
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0792
+#Frecuency
+CPU MHz:             1094.314
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729332
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729332
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729332
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 2
+2.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3590
+Domain intel-rapl:0 (package-0) energy consumption (j):  83.1325
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2406
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.3429
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2323
+2.42s 
+2.42s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4240
+Recorded wall time (s):   2.4230
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.8683
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8368
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.8683
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8516
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8998
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3217
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8998
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3239
+#Frecuency
+CPU MHz:             1071.029
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729335
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729335
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729335
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 2
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7170
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.1360
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6447
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.1679
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3356
+4.83s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8350
+4.84s 
+Domain intel-rapl:0 (package-0) energy consumption (j): 171.8141
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5355
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8510
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.7255
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3207
+Domain intel-rapl:0 (package-0) energy consumption (j): 171.8141
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4183
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.7255
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3031
+#Frecuency
+CPU MHz:             1657.392
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729340
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729340
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729340
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 2
+11.74s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7600
+Domain intel-rapl:0 (package-0) energy consumption (j): 421.7157
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8602
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.8107
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3410
+12.06s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0710
+12.07s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0840
+Domain intel-rapl:0 (package-0) energy consumption (j): 432.3593
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8180
+Domain intel-rapl:0 (package-0) energy consumption (j): 432.3593
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.7795
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.4823
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3419
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.4823
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3362
+#Frecuency
+CPU MHz:             1025.636
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729352
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729352
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729352
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 3
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2010
+1.21s 
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.4268
+1.21s 
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4936
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2230
+Recorded wall time (s):   1.2250
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2070
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1682
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.4268
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8178
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.4268
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8731
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2070
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0669
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2070
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0752
+#Frecuency
+CPU MHz:             1128.308
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729353
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729353
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729353
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 3
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3770
+Domain intel-rapl:0 (package-0) energy consumption (j):  83.8690
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2836
+2.40s 
+2.40s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4070
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8547
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.4080
+Recorded wall time (s):   2.4110
+Domain intel-rapl:0 (package-0) energy consumption (j):  83.8690
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8438
+Domain intel-rapl:0 (package-0) energy consumption (j):  83.8690
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.7860
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8547
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3406
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8547
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3317
+#Frecuency
+CPU MHz:             1556.684
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729356
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729356
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729356
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 3
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7130
+Domain intel-rapl:0 (package-0) energy consumption (j): 165.2466
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0619
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.0780
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3210
+4.81s 
+4.81s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8150
+Recorded wall time (s):   4.8160
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.9304
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0769
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.9304
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0842
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6303
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3219
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6303
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3230
+#Frecuency
+CPU MHz:             1457.051
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729361
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729361
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729361
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 3
+11.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.6940
+Domain intel-rapl:0 (package-0) energy consumption (j): 409.4015
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0095
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.5027
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3449
+11.97s 
+** RAPL-logger - Process terminated, computing results
+11.98s 
+Recorded wall time (s):  11.9810
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9890
+Domain intel-rapl:0 (package-0) energy consumption (j): 420.0357
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0585
+Domain intel-rapl:0 (package-0) energy consumption (j): 420.0357
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0351
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.1540
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3546
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.1540
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3511
+#Frecuency
+CPU MHz:             1161.991
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729373
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729373
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729373
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 4
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.1990
+1.21s 
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.7620
+1.21s 
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8307
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2140
+Recorded wall time (s):   1.2140
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.7620
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4003
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1358
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1174
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.7620
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4003
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1358
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0542
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1358
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0542
+#Frecuency
+CPU MHz:             1040.680
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729374
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729374
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729374
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 4
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3720
+Domain intel-rapl:0 (package-0) energy consumption (j):  83.3120
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1231
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.3193
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1936
+2.42s 
+2.42s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4280
+Recorded wall time (s):   2.4280
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.0769
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.0769
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8636
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8636
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8756
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3030
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8756
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3030
+#Frecuency
+CPU MHz:             1288.983
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729377
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729377
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729377
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 4
+4.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7260
+Domain intel-rapl:0 (package-0) energy consumption (j): 169.4906
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8634
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.0664
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3039
+4.83s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8410
+4.84s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8520
+Domain intel-rapl:0 (package-0) energy consumption (j): 173.2398
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.7860
+Domain intel-rapl:0 (package-0) energy consumption (j): 173.2398
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.7048
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6292
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2942
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6292
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2822
+#Frecuency
+CPU MHz:             1079.600
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729382
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729382
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729382
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 4
+11.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7510
+Domain intel-rapl:0 (package-0) energy consumption (j): 410.1214
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9010
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.0834
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3683
+12.05s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0620
+12.06s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0710
+Domain intel-rapl:0 (package-0) energy consumption (j): 420.8386
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8896
+Domain intel-rapl:0 (package-0) energy consumption (j): 420.8386
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8636
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.1922
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3219
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.1922
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3179
+#Frecuency
+CPU MHz:             1034.915
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729394
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729394
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729394
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 16 5
+10.64s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.6470
+Domain intel-rapl:0 (package-0) energy consumption (j): 388.2401
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4647
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  56.8427
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3388
+10.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.7440
+Domain intel-rapl:0 (package-0) energy consumption (j): 391.6790
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4556
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.3902
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3416
+10.82s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.8300
+Domain intel-rapl:0 (package-0) energy consumption (j): 391.6790
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.1661
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.3902
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2992
+#Frecuency
+CPU MHz:             1933.145
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729405
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729405
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729405
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 16 5
+20.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  20.7410
+Domain intel-rapl:0 (package-0) energy consumption (j): 749.1377
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.1187
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 111.0343
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3534
+21.57s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.5750
+Domain intel-rapl:0 (package-0) energy consumption (j): 775.3807
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9389
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 115.4700
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3520
+21.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.7000
+Domain intel-rapl:0 (package-0) energy consumption (j): 778.7406
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8867
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 116.0214
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3466
+#Frecuency
+CPU MHz:             1324.734
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729427
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729427
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729427
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 16 5
+42.11s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  42.1280
+Domain intel-rapl:0 (package-0) energy consumption (j): 1533.3329
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3970
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 226.4152
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3745
+43.24s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.2490
+Domain intel-rapl:0 (package-0) energy consumption (j): 1574.1277
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3969
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 232.0448
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3653
+43.47s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.4780
+Domain intel-rapl:0 (package-0) energy consumption (j): 1580.8056
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3587
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 233.1295
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3620
+#Frecuency
+CPU MHz:             1435.499
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729470
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729470
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729470
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 16 5
+106.81s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 106.8230
+Domain intel-rapl:0 (package-0) energy consumption (j): 3407.1395
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  31.8952
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 572.5123
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3594
+107.57s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 107.5790
+Domain intel-rapl:0 (package-0) energy consumption (j): 3424.0134
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  31.8279
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 575.0880
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3457
+131.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 131.3610
+Domain intel-rapl:0 (package-0) energy consumption (j): 3936.1881
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.9647
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 650.1407
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.9493
+#Frecuency
+CPU MHz:             1784.284
+#32 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729602
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729602
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729602
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 1
+1.21s 
+1.21s 
+1.21s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2180
+Recorded wall time (s):   1.2150
+Recorded wall time (s):   1.2170
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.9562
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.9562
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.6258
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.7088
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.9562
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.6534
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2032
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0930
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2032
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1055
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2032
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0971
+#Frecuency
+CPU MHz:             1384.067
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729603
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729603
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729603
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 1
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3710
+Domain intel-rapl:0 (package-0) energy consumption (j):  82.6692
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.8668
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8499
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.4196
+2.45s 
+2.45s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4550
+Recorded wall time (s):   2.4590
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.4626
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2190
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.4626
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1617
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8499
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2342
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8499
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2257
+#Frecuency
+CPU MHz:             1029.803
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729605
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729605
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729605
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 1
+4.78s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7900
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.6874
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2166
+4.81s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8190
+4.81s 
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.7167
+** RAPL-logger - Process terminated, computing results
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3688
+Recorded wall time (s):   4.8240
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.6874
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0047
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.6874
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9684
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.7167
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3365
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.7167
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3310
+#Frecuency
+CPU MHz:             1050.788
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729610
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729610
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729610
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 1
+11.80s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.8120
+Domain intel-rapl:0 (package-0) energy consumption (j): 422.8757
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8005
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.2267
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3527
+11.98s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9920
+11.99s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0010
+Domain intel-rapl:0 (package-0) energy consumption (j): 427.6017
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6573
+Domain intel-rapl:0 (package-0) energy consumption (j): 427.6017
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6305
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.9414
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3320
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.9414
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3280
+#Frecuency
+CPU MHz:             1223.661
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729622
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729622
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729622
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 2
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2080
+1.21s 
+1.21s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2140
+Recorded wall time (s):   1.2160
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.0086
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.9475
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.0086
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.7798
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.0086
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.7242
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1741
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1110
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1741
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0858
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1741
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0774
+#Frecuency
+CPU MHz:             1054.744
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729624
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729624
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729624
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 2
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3690
+Domain intel-rapl:0 (package-0) energy consumption (j):  83.6480
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3094
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8332
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.4171
+2.42s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4300
+2.44s 
+** RAPL-logger - Process terminated, computing results
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.3499
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9465
+Recorded wall time (s):   2.4460
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8332
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2812
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.3499
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.7113
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8332
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2466
+#Frecuency
+CPU MHz:             1083.295
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729626
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729626
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729626
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 2
+4.74s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7510
+Domain intel-rapl:0 (package-0) energy consumption (j): 166.7095
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0893
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.5860
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3854
+4.80s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8080
+4.81s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8190
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.3890
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4386
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.3890
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3577
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6774
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3406
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6774
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3284
+#Frecuency
+CPU MHz:             1015.753
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729631
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729631
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729631
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 2
+11.72s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7370
+Domain intel-rapl:0 (package-0) energy consumption (j): 424.1323
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.1363
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.1070
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3768
+12.03s 
+** RAPL-logger - Process terminated, computing results
+12.03s 
+Recorded wall time (s):  12.0380
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0400
+Domain intel-rapl:0 (package-0) energy consumption (j): 432.3860
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9184
+Domain intel-rapl:0 (package-0) energy consumption (j): 432.3860
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9125
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.3519
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3457
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.3519
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3448
+#Frecuency
+CPU MHz:             1038.902
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729643
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729643
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729643
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 3
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2070
+1.20s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2110
+1.21s 
+** RAPL-logger - Process terminated, computing results
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.3047
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.2210
+Recorded wall time (s):   1.2210
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.3047
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.1079
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.3047
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1794
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8286
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1196
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1794
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1027
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1794
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0609
+#Frecuency
+CPU MHz:             1029.055
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729645
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729645
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729645
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 3
+2.37s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3820
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.0445
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.5426
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.7441
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3502
+2.41s 
+2.41s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4170
+Recorded wall time (s):   2.4180
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.0445
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.0135
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.0445
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9986
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.7441
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2727
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.7441
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2705
+#Frecuency
+CPU MHz:             1045.684
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729647
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729647
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729647
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 3
+4.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7330
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.1226
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9439
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.1419
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3121
+4.79s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8000
+4.80s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8110
+Domain intel-rapl:0 (package-0) energy consumption (j): 173.8434
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2174
+Domain intel-rapl:0 (package-0) energy consumption (j): 173.8434
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.1346
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6959
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3533
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6959
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3411
+#Frecuency
+CPU MHz:             1092.095
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729652
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729652
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729652
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 3
+11.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7170
+Domain intel-rapl:0 (package-0) energy consumption (j): 416.5035
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5469
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.8976
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3681
+12.03s 
+** RAPL-logger - Process terminated, computing results
+12.04s 
+Recorded wall time (s):  12.0430
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0500
+Domain intel-rapl:0 (package-0) energy consumption (j): 427.1169
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4660
+Domain intel-rapl:0 (package-0) energy consumption (j): 427.1169
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4454
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.1429
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3262
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.1429
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3231
+#Frecuency
+CPU MHz:             1508.242
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729664
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729664
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729664
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 4
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2010
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2763
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3683
+1.22s 
+** RAPL-logger - Process terminated, computing results
+1.22s 
+Recorded wall time (s):   1.2260
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2250
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1840
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1491
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2763
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.6675
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2763
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.6950
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1840
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0441
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1840
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0482
+#Frecuency
+CPU MHz:             1268.388
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729666
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729666
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729666
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 4
+2.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3630
+Domain intel-rapl:0 (package-0) energy consumption (j):  80.9488
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.2568
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.3385
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2216
+2.41s 
+2.41s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4130
+Recorded wall time (s):   2.4130
+Domain intel-rapl:0 (package-0) energy consumption (j):  84.6623
+Domain intel-rapl:0 (package-0) energy consumption (j):  84.6623
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0859
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0859
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.9044
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.9044
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3478
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3478
+#Frecuency
+CPU MHz:             1025.267
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729668
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729668
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729668
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 4
+4.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7220
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.7616
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.1630
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.3193
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3620
+4.83s 
+** RAPL-logger - Process terminated, computing results
+4.83s 
+Recorded wall time (s):   4.8400
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8400
+Domain intel-rapl:0 (package-0) energy consumption (j): 174.4528
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.0440
+Domain intel-rapl:0 (package-0) energy consumption (j): 174.4528
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.0440
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.8750
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3461
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.8750
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3461
+#Frecuency
+CPU MHz:             1036.004
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729673
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729673
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729673
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 4
+11.76s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7770
+Domain intel-rapl:0 (package-0) energy consumption (j): 419.9171
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6557
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.0870
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3568
+12.07s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0750
+12.07s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0810
+Domain intel-rapl:0 (package-0) energy consumption (j): 430.6129
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6615
+Domain intel-rapl:0 (package-0) energy consumption (j): 430.6129
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6438
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.7485
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3622
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.7485
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3595
+#Frecuency
+CPU MHz:             1272.533
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729685
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729685
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729685
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 32 5
+10.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.7030
+Domain intel-rapl:0 (package-0) energy consumption (j): 388.8569
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3316
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.5648
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3784
+10.81s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.8170
+Domain intel-rapl:0 (package-0) energy consumption (j): 392.8694
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3196
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  58.1314
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3741
+10.94s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.9450
+Domain intel-rapl:0 (package-0) energy consumption (j): 396.3453
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2125
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  58.6979
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3630
+#Frecuency
+CPU MHz:             1042.432
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729696
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729696
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729696
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 32 5
+21.45s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.4650
+Domain intel-rapl:0 (package-0) energy consumption (j): 781.8475
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4243
+21.51s 
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 115.2009
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3669
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.5160
+Domain intel-rapl:0 (package-0) energy consumption (j): 781.8475
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3380
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 115.2009
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3542
+21.82s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.8300
+Domain intel-rapl:0 (package-0) energy consumption (j): 791.5115
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2580
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 116.8705
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3537
+#Frecuency
+CPU MHz:             1160.601
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729718
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729718
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729718
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 32 5
+41.94s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  41.9570
+Domain intel-rapl:0 (package-0) energy consumption (j): 1524.5360
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3357
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 225.4720
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3739
+43.11s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.1190
+Domain intel-rapl:0 (package-0) energy consumption (j): 1565.5086
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3067
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 231.2685
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3635
+43.29s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.2990
+Domain intel-rapl:0 (package-0) energy consumption (j): 1572.2038
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3104
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 232.3774
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3668
+#Frecuency
+CPU MHz:             1386.317
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729761
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729761
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729761
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 32 5
+105.95s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 105.9580
+Domain intel-rapl:0 (package-0) energy consumption (j): 3654.8936
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4938
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 568.3472
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3639
+107.08s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 107.0930
+Domain intel-rapl:0 (package-0) energy consumption (j): 3691.2853
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4680
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 574.4859
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3644
+109.03s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 109.0380
+Domain intel-rapl:0 (package-0) energy consumption (j): 3750.3198
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3946
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 584.5194
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3607
+#Frecuency
+CPU MHz:             1143.207
+#64 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729871
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729871
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729871
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 1
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.1980
+1.21s 
+** RAPL-logger - Process terminated, computing results
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.8239
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9115
+Recorded wall time (s):   1.2150
+1.22s 
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1697
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.8239
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1500
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.4230
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2320
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1697
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0779
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.8239
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.9480
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1697
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0079
+#Frecuency
+CPU MHz:             1344.212
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729872
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729872
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729872
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 1
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3710
+Domain intel-rapl:0 (package-0) energy consumption (j):  77.6754
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.7606
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.3267
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1990
+2.41s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4130
+Domain intel-rapl:0 (package-0) energy consumption (j):  80.9472
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.5463
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8768
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3364
+2.44s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4450
+Domain intel-rapl:0 (package-0) energy consumption (j):  80.9472
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.1073
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8768
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2666
+#Frecuency
+CPU MHz:             1219.787
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729875
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729875
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 1
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729875
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 1
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7170
+Domain intel-rapl:0 (package-0) energy consumption (j): 169.7410
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9850
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.1002
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3212
+4.82s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8240
+4.83s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8370
+Domain intel-rapl:0 (package-0) energy consumption (j): 173.3974
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9447
+Domain intel-rapl:0 (package-0) energy consumption (j): 173.3974
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8481
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6546
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3181
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6546
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3038
+#Frecuency
+CPU MHz:             1072.329
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729879
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729879
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729879
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 1
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 1
+11.74s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7580
+Domain intel-rapl:0 (package-0) energy consumption (j): 420.1063
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.7294
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.1551
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3712
+12.05s 
+** RAPL-logger - Process terminated, computing results
+12.05s 
+Recorded wall time (s):  12.0600
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0630
+Domain intel-rapl:0 (package-0) energy consumption (j): 431.1580
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.7511
+Domain intel-rapl:0 (package-0) energy consumption (j): 431.1580
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.7422
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.2626
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3286
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.2626
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3272
+#Frecuency
+CPU MHz:             1018.920
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729892
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729892
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729892
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 2
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2020
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.9884
+1.21s 
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9321
+** RAPL-logger - Process terminated, computing results
+1.22s 
+Recorded wall time (s):   1.2220
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2300
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1791
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1407
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.9884
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3604
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.9884
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.1369
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1791
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0565
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1791
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0236
+#Frecuency
+CPU MHz:             1572.113
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729893
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729893
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729893
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 2
+2.38s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3890
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.2586
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.5251
+2.41s 
+** RAPL-logger - Process terminated, computing results
+2.42s 
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8198
+Recorded wall time (s):   2.4180
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3662
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4260
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.2586
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.0871
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.2586
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9681
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8198
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3018
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8198
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2843
+#Frecuency
+CPU MHz:             1257.787
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729895
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729895
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729895
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 2
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 2
+4.78s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7930
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.9957
+4.81s 
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6761
+4.81s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8160
+Recorded wall time (s):   4.8190
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.5876
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3385
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.9957
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5058
+Domain intel-rapl:0 (package-0) energy consumption (j): 170.9957
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4837
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.5876
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3130
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.5876
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3097
+#Frecuency
+CPU MHz:             1055.650
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729900
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729900
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 2
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729900
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 2
+11.72s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7390
+Domain intel-rapl:0 (package-0) energy consumption (j): 417.3314
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.5508
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.0136
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3679
+12.05s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0640
+12.06s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0670
+Domain intel-rapl:0 (package-0) energy consumption (j): 425.4176
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2634
+Domain intel-rapl:0 (package-0) energy consumption (j): 425.4176
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2546
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.2543
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3261
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.2543
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3248
+#Frecuency
+CPU MHz:             1050.917
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729912
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729912
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729912
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 3
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2000
+1.21s 
+1.21s 
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.1721
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.3101
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2170
+Recorded wall time (s):   1.2170
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2132
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1777
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.1721
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.1721
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8308
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8308
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2132
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.2132
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1053
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1053
+#Frecuency
+CPU MHz:             1257.826
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729914
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729914
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729914
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 3
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3740
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.6306
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.4914
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.7934
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3890
+2.41s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4210
+2.42s 
+** RAPL-logger - Process terminated, computing results
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.3259
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.0702
+Recorded wall time (s):   2.4330
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.7934
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2843
+Domain intel-rapl:0 (package-0) energy consumption (j):  87.3259
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.8923
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.7934
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2583
+#Frecuency
+CPU MHz:             1691.600
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729916
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729916
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729916
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 3
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7130
+Domain intel-rapl:0 (package-0) energy consumption (j): 165.5920
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.1352
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.1110
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3280
+4.82s 
+4.82s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8270
+Recorded wall time (s):   4.8300
+Domain intel-rapl:0 (package-0) energy consumption (j): 169.0252
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0166
+Domain intel-rapl:0 (package-0) energy consumption (j): 169.0252
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  34.9949
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6418
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3122
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6418
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3089
+#Frecuency
+CPU MHz:             1933.759
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729921
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729921
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 3
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729921
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 3
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 3
+11.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7160
+Domain intel-rapl:0 (package-0) energy consumption (j): 414.3343
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3648
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.8373
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3634
+11.98s 
+11.99s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9950
+Recorded wall time (s):  11.9980
+Domain intel-rapl:0 (package-0) energy consumption (j): 425.2581
+Domain intel-rapl:0 (package-0) energy consumption (j): 425.2581
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4529
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.4441
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.0908
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.0908
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3431
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3418
+#Frecuency
+CPU MHz:             1032.814
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729933
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729933
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729933
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 4
+1.17s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.1790
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2846
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0166
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1757
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2381
+1.21s 
+1.21s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.2190
+Recorded wall time (s):   1.2230
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2846
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.8676
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.2846
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  33.7568
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1757
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0662
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.1757
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0496
+#Frecuency
+CPU MHz:             1022.571
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729935
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729935
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729935
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 4
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.3830
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.6522
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.9430
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8754
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.4030
+2.41s 
+** RAPL-logger - Process terminated, computing results
+2.42s 
+Recorded wall time (s):   2.4230
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.4270
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.6522
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.3497
+Domain intel-rapl:0 (package-0) energy consumption (j):  85.6522
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.2914
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8754
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3138
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  12.8754
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3051
+#Frecuency
+CPU MHz:             1016.315
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729937
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729937
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729937
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 4
+4.72s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.7290
+Domain intel-rapl:0 (package-0) energy consumption (j): 168.8188
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6986
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.3215
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3545
+4.83s 
+4.83s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8380
+Recorded wall time (s):   4.8420
+Domain intel-rapl:0 (package-0) energy consumption (j): 172.4511
+Domain intel-rapl:0 (package-0) energy consumption (j): 172.4511
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6157
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.6451
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.8777
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3444
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.8777
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3488
+#Frecuency
+CPU MHz:             1015.525
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729942
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 4
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729942
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729942
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 4
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 4
+11.74s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7560
+Domain intel-rapl:0 (package-0) energy consumption (j): 411.8774
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0355
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.9587
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3554
+12.04s 
+12.05s 
+** RAPL-logger - Process terminated, computing results
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.0470
+Recorded wall time (s):  12.0540
+Domain intel-rapl:0 (package-0) energy consumption (j): 422.7893
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0950
+Domain intel-rapl:0 (package-0) energy consumption (j): 422.7893
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  35.0746
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.2291
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  64.2291
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3315
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3284
+#Frecuency
+CPU MHz:             1108.331
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729954
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729954
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729954
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 500 64 5
+10.72s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.7250
+Domain intel-rapl:0 (package-0) energy consumption (j): 389.4023
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.3079
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.3742
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3496
+10.82s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.8260
+Domain intel-rapl:0 (package-0) energy consumption (j): 392.8659
+10.84s 
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2891
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  10.8500
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.9341
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3514
+Domain intel-rapl:0 (package-0) energy consumption (j): 392.8659
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2088
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  57.9341
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3395
+#Frecuency
+CPU MHz:             1787.996
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729965
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729965
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729965
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 1000 64 5
+21.37s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.3760
+Domain intel-rapl:0 (package-0) energy consumption (j): 775.5025
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2791
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 114.2526
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3449
+21.42s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.4300
+Domain intel-rapl:0 (package-0) energy consumption (j): 777.0162
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2583
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 114.4719
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3417
+21.48s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  21.4870
+Domain intel-rapl:0 (package-0) energy consumption (j): 778.5117
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2318
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 114.4719
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3275
+#Frecuency
+CPU MHz:             1075.857
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729987
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729987
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652729987
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 2000 64 5
+43.43s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.4410
+Domain intel-rapl:0 (package-0) energy consumption (j): 1574.5701
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2462
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 231.4315
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3275
+43.59s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.6010
+Domain intel-rapl:0 (package-0) energy consumption (j): 1581.1148
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.2633
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 232.4905
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3322
+43.88s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  43.8890
+Domain intel-rapl:0 (package-0) energy consumption (j): 1586.0058
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  36.1367
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 233.2301
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3141
+#Frecuency
+CPU MHz:             1532.161
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652730031
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652730031
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 5
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652730031
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 5
+** RAPL-logger - Profiling: ./Zagreus/main 2 5000 64 5
+106.38s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 106.3870
+Domain intel-rapl:0 (package-0) energy consumption (j): 3505.2129
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.9478
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 569.4913
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3530
+106.64s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 106.6500
+Domain intel-rapl:0 (package-0) energy consumption (j): 3512.9275
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.9388
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 570.6076
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3503
+107.24s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 107.2530
+Domain intel-rapl:0 (package-0) energy consumption (j): 3529.5361
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  32.9085
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 573.3849
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3461
+#Frecuency
+CPU MHz:             1050.773

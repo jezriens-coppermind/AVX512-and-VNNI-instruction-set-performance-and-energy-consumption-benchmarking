@@ -1,0 +1,1432 @@
+/pscratch/jarriaran
+#AVX mode
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652819990
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 500 16 1
+Executing the following command: ./Zagreus/main 1 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.91s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   3.1810
+Domain intel-rapl:0 (package-0) energy consumption (j):  86.1519
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.0833
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  16.4368
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1672
+#Frecuency
+CPU MHz:             1327.041
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652819993
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 1000 16 1
+Executing the following command: ./Zagreus/main 1 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.75s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   5.0070
+Domain intel-rapl:0 (package-0) energy consumption (j): 134.6287
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  26.8881
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.9769
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1881
+#Frecuency
+CPU MHz:             1425.950
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652819998
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 2000 16 1
+Executing the following command: ./Zagreus/main 1 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+7.13s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   7.3500
+Domain intel-rapl:0 (package-0) energy consumption (j): 216.8398
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.5020
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  38.6608
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2600
+#Frecuency
+CPU MHz:             1331.062
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820006
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 5000 16 1
+Executing the following command: ./Zagreus/main 1 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+17.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  17.9530
+Domain intel-rapl:0 (package-0) energy consumption (j): 535.5616
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.8313
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  94.8777
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2848
+#Frecuency
+CPU MHz:             1373.172
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820024
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 500 16 2
+Executing the following command: ./Zagreus/main 1 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+3.39s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   3.6070
+Domain intel-rapl:0 (package-0) energy consumption (j):  96.4132
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  26.7295
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  18.8388
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2228
+#Frecuency
+CPU MHz:             1033.625
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820027
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 1000 16 2
+Executing the following command: ./Zagreus/main 1 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+5.60s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   5.8190
+Domain intel-rapl:0 (package-0) energy consumption (j): 155.4129
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  26.7078
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  30.2744
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2027
+#Frecuency
+CPU MHz:             1036.409
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820033
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 2000 16 2
+Executing the following command: ./Zagreus/main 1 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.01s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.2520
+Domain intel-rapl:0 (package-0) energy consumption (j): 303.6209
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  26.9837
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  59.0518
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2481
+#Frecuency
+CPU MHz:             1043.586
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820045
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 5000 16 2
+Executing the following command: ./Zagreus/main 1 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+33.96s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  34.2010
+Domain intel-rapl:0 (package-0) energy consumption (j): 941.9206
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.5407
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 180.4894
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2773
+#Frecuency
+CPU MHz:             1318.375
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820079
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 500 16 3
+Executing the following command: ./Zagreus/main 1 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+8.27s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   8.5200
+Domain intel-rapl:0 (package-0) energy consumption (j): 254.0225
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.8149
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  44.2768
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1968
+#Frecuency
+CPU MHz:             1452.359
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820088
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 1000 16 3
+Executing the following command: ./Zagreus/main 1 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+16.27s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  16.4780
+Domain intel-rapl:0 (package-0) energy consumption (j): 487.6405
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.5934
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  86.3093
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2379
+#Frecuency
+CPU MHz:             1522.553
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820104
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 2000 16 3
+Executing the following command: ./Zagreus/main 1 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+36.07s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  36.2930
+Domain intel-rapl:0 (package-0) energy consumption (j): 1032.3007
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.4435
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 190.9516
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2614
+#Frecuency
+CPU MHz:             1014.268
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820141
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 5000 16 3
+Executing the following command: ./Zagreus/main 1 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+80.34s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  80.5880
+Domain intel-rapl:0 (package-0) energy consumption (j): 2270.5036
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.1742
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 424.6498
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2694
+#Frecuency
+CPU MHz:             1060.429
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820221
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 500 16 4
+Executing the following command: ./Zagreus/main 1 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+12.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  12.4400
+Domain intel-rapl:0 (package-0) energy consumption (j): 341.8479
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.4797
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  66.0962
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3132
+#Frecuency
+CPU MHz:             1411.644
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820234
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 1000 16 4
+Executing the following command: ./Zagreus/main 1 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+24.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  24.5690
+Domain intel-rapl:0 (package-0) energy consumption (j): 720.9714
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.3448
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 130.7716
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3226
+#Frecuency
+CPU MHz:             1329.630
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820258
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 2000 16 4
+Executing the following command: ./Zagreus/main 1 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+48.73s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  48.9750
+Domain intel-rapl:0 (package-0) energy consumption (j): 1368.2575
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.9379
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 260.6543
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3222
+#Frecuency
+CPU MHz:             1294.896
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820307
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 5000 16 4
+Executing the following command: ./Zagreus/main 1 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+120.78s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 121.0300
+Domain intel-rapl:0 (package-0) energy consumption (j): 3481.8566
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.7685
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 640.9034
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2954
+#Frecuency
+CPU MHz:             1050.052
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820429
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 500 16 5
+Executing the following command: ./Zagreus/main 1 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+19.55s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  19.8180
+Domain intel-rapl:0 (package-0) energy consumption (j): 531.5279
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  26.8205
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 106.3631
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3670
+#Frecuency
+CPU MHz:             1125.812
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820448
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 1000 16 5
+Executing the following command: ./Zagreus/main 1 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+39.51s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  39.7580
+Domain intel-rapl:0 (package-0) energy consumption (j): 1080.5326
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.1777
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 212.8653
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3540
+#Frecuency
+CPU MHz:             1040.953
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820488
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 2000 16 5
+Executing the following command: ./Zagreus/main 1 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+77.31s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  77.5410
+Domain intel-rapl:0 (package-0) energy consumption (j): 2107.1915
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.1752
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 415.5626
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3593
+#Frecuency
+CPU MHz:             1220.626
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820566
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 1 5000 16 5
+Executing the following command: ./Zagreus/main 1 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+199.72s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 199.9610
+Domain intel-rapl:0 (package-0) energy consumption (j): 5449.7028
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.2538
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 1073.8210
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3702
+#Frecuency
+CPU MHz:             1085.280
+#AVX+VNNI mode
+#8 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820766
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 8 1
+Executing the following command: ./Zagreus/main 2 500 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4520
+Domain intel-rapl:0 (package-0) energy consumption (j):  43.6070
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0324
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.5726
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2153
+#Frecuency
+CPU MHz:             1371.555
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820768
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 8 1
+Executing the following command: ./Zagreus/main 2 1000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.6030
+Domain intel-rapl:0 (package-0) energy consumption (j):  79.3848
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.4974
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.5904
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2211
+#Frecuency
+CPU MHz:             1713.625
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820770
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 8 1
+Executing the following command: ./Zagreus/main 2 2000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9210
+Domain intel-rapl:0 (package-0) energy consumption (j): 148.2920
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.1345
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.9982
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2831
+#Frecuency
+CPU MHz:             1026.038
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820775
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 8 1
+Executing the following command: ./Zagreus/main 2 5000 8 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9180
+Domain intel-rapl:0 (package-0) energy consumption (j): 367.7105
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.8534
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.5552
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3327
+#Frecuency
+CPU MHz:             1046.119
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820787
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 8 2
+Executing the following command: ./Zagreus/main 2 500 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.18s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4080
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.6350
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.8601
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.1993
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1131
+#Frecuency
+CPU MHz:             1611.310
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820789
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 8 2
+Executing the following command: ./Zagreus/main 2 1000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5870
+Domain intel-rapl:0 (package-0) energy consumption (j):  76.8003
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.6870
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.4013
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1802
+#Frecuency
+CPU MHz:             1508.920
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820791
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 8 2
+Executing the following command: ./Zagreus/main 2 2000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9160
+Domain intel-rapl:0 (package-0) energy consumption (j): 148.6066
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2292
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.1734
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3241
+#Frecuency
+CPU MHz:             1391.615
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820796
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 8 2
+Executing the following command: ./Zagreus/main 2 5000 8 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.72s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9620
+Domain intel-rapl:0 (package-0) energy consumption (j): 369.0591
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.8526
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.4675
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3058
+#Frecuency
+CPU MHz:             1219.670
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820808
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 8 3
+Executing the following command: ./Zagreus/main 2 500 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.18s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.3910
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.8386
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.3592
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.1302
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1260
+#Frecuency
+CPU MHz:             1012.953
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820810
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 8 3
+Executing the following command: ./Zagreus/main 2 1000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.31s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5480
+Domain intel-rapl:0 (package-0) energy consumption (j):  76.5992
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0625
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.4029
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2601
+#Frecuency
+CPU MHz:             2562.062
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820813
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 8 3
+Executing the following command: ./Zagreus/main 2 2000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9260
+Domain intel-rapl:0 (package-0) energy consumption (j): 148.7322
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.1933
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.0785
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2941
+#Frecuency
+CPU MHz:             2045.487
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820818
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 8 3
+Executing the following command: ./Zagreus/main 2 5000 8 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9180
+Domain intel-rapl:0 (package-0) energy consumption (j): 361.2521
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.3115
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.7762
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3512
+#Frecuency
+CPU MHz:             2103.132
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820830
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 8 4
+Executing the following command: ./Zagreus/main 2 500 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.18s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4410
+Domain intel-rapl:0 (package-0) energy consumption (j):  39.6779
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  27.5350
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   6.9246
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.8054
+#Frecuency
+CPU MHz:             2114.317
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820831
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 8 4
+Executing the following command: ./Zagreus/main 2 1000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.37s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5980
+Domain intel-rapl:0 (package-0) energy consumption (j):  79.0557
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.4294
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.7863
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3065
+#Frecuency
+CPU MHz:             2142.202
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820834
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 8 4
+Executing the following command: ./Zagreus/main 2 2000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9220
+Domain intel-rapl:0 (package-0) energy consumption (j): 147.2069
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.9079
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.0008
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2826
+#Frecuency
+CPU MHz:             1980.616
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820839
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 8 4
+Executing the following command: ./Zagreus/main 2 5000 8 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.58s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.8220
+Domain intel-rapl:0 (package-0) energy consumption (j): 359.2244
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.3861
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.6636
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3006
+#Frecuency
+CPU MHz:             2603.232
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820851
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 8 5
+Executing the following command: ./Zagreus/main 2 500 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.28s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.5200
+Domain intel-rapl:0 (package-0) energy consumption (j): 350.7030
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.4430
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  61.4192
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3315
+#Frecuency
+CPU MHz:             2178.153
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820862
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 8 5
+Executing the following command: ./Zagreus/main 2 1000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+22.85s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  23.0680
+Domain intel-rapl:0 (package-0) energy consumption (j): 697.7419
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2472
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 123.4687
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3524
+#Frecuency
+CPU MHz:             2085.704
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820885
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 8 5
+Executing the following command: ./Zagreus/main 2 2000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+45.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  45.9460
+Domain intel-rapl:0 (package-0) energy consumption (j): 1399.2287
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.4538
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 246.4734
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3644
+#Frecuency
+CPU MHz:             2080.626
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652820931
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 8 5
+Executing the following command: ./Zagreus/main 2 5000 8 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+114.42s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 114.6400
+Domain intel-rapl:0 (package-0) energy consumption (j): 3469.2815
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2624
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 613.6641
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3530
+#Frecuency
+CPU MHz:             2335.028
+#16 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821046
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 16 1
+Executing the following command: ./Zagreus/main 2 500 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.17s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4330
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.1453
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.0149
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.0984
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.9535
+#Frecuency
+CPU MHz:             2183.237
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821048
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 16 1
+Executing the following command: ./Zagreus/main 2 1000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5750
+Domain intel-rapl:0 (package-0) energy consumption (j):  75.6357
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.3731
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.2235
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1353
+#Frecuency
+CPU MHz:             2218.542
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821050
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 16 1
+Executing the following command: ./Zagreus/main 2 2000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9230
+Domain intel-rapl:0 (package-0) energy consumption (j): 150.6643
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.6042
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.9017
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2614
+#Frecuency
+CPU MHz:             2110.542
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821055
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 16 1
+Executing the following command: ./Zagreus/main 2 5000 16 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9390
+Domain intel-rapl:0 (package-0) energy consumption (j): 358.9998
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0695
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.5125
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3197
+#Frecuency
+CPU MHz:             2141.573
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821067
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 16 2
+Executing the following command: ./Zagreus/main 2 500 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.16s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.3880
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.1691
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.6608
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.1023
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1169
+#Frecuency
+CPU MHz:             2094.067
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821069
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 16 2
+Executing the following command: ./Zagreus/main 2 1000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.37s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.6150
+Domain intel-rapl:0 (package-0) energy consumption (j):  79.1299
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2600
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.6528
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2209
+#Frecuency
+CPU MHz:             2192.051
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821072
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 16 2
+Executing the following command: ./Zagreus/main 2 2000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.62s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8700
+Domain intel-rapl:0 (package-0) energy consumption (j): 147.1866
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2231
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.9496
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3285
+#Frecuency
+CPU MHz:             1451.902
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821076
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 16 2
+Executing the following command: ./Zagreus/main 2 5000 16 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9110
+Domain intel-rapl:0 (package-0) energy consumption (j): 363.2229
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.4947
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.6677
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3453
+#Frecuency
+CPU MHz:             2394.820
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821088
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 16 3
+Executing the following command: ./Zagreus/main 2 500 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.18s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.3960
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.6276
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.8192
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.1232
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1026
+#Frecuency
+CPU MHz:             2287.551
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821090
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 16 3
+Executing the following command: ./Zagreus/main 2 1000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5870
+Domain intel-rapl:0 (package-0) energy consumption (j):  73.4687
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.3992
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.1946
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1004
+#Frecuency
+CPU MHz:             2065.007
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821093
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 16 3
+Executing the following command: ./Zagreus/main 2 2000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9090
+Domain intel-rapl:0 (package-0) energy consumption (j): 151.5261
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.8670
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.1004
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3168
+#Frecuency
+CPU MHz:             1029.341
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821098
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 16 3
+Executing the following command: ./Zagreus/main 2 5000 16 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.66s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.8830
+Domain intel-rapl:0 (package-0) energy consumption (j): 357.4459
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0804
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.1079
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3108
+#Frecuency
+CPU MHz:             1435.183
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821110
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 16 4
+Executing the following command: ./Zagreus/main 2 500 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.16s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.3860
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.1442
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.6856
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.2406
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2241
+#Frecuency
+CPU MHz:             2530.371
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821111
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 16 4
+Executing the following command: ./Zagreus/main 2 1000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.6020
+Domain intel-rapl:0 (package-0) energy consumption (j):  78.9337
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.3358
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.6676
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2527
+#Frecuency
+CPU MHz:             2094.780
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821114
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 16 4
+Executing the following command: ./Zagreus/main 2 2000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9330
+Domain intel-rapl:0 (package-0) energy consumption (j): 148.5018
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.1037
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.0622
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2832
+#Frecuency
+CPU MHz:             2107.120
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821119
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 16 4
+Executing the following command: ./Zagreus/main 2 5000 16 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9380
+Domain intel-rapl:0 (package-0) energy consumption (j): 356.7733
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.8855
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.1989
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2939
+#Frecuency
+CPU MHz:             2080.290
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821131
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 16 5
+Executing the following command: ./Zagreus/main 2 500 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.44s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.6850
+Domain intel-rapl:0 (package-0) energy consumption (j): 358.4431
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.6755
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  61.9800
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3042
+#Frecuency
+CPU MHz:             1937.694
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821143
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 16 5
+Executing the following command: ./Zagreus/main 2 1000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+22.90s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  23.1340
+Domain intel-rapl:0 (package-0) energy consumption (j): 699.7328
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2469
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 123.9305
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3571
+#Frecuency
+CPU MHz:             2157.399
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821166
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 16 5
+Executing the following command: ./Zagreus/main 2 2000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+45.25s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  45.4770
+Domain intel-rapl:0 (package-0) energy consumption (j): 1388.6227
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.5346
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 243.4493
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3532
+#Frecuency
+CPU MHz:             2388.076
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821211
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 16 5
+Executing the following command: ./Zagreus/main 2 5000 16 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+113.66s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 113.9120
+Domain intel-rapl:0 (package-0) energy consumption (j): 3441.0699
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2081
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 610.1022
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3559
+#Frecuency
+CPU MHz:             2050.565
+#32 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821325
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 32 1
+Executing the following command: ./Zagreus/main 2 500 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.18s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4510
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.0825
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.3133
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.1220
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.9083
+#Frecuency
+CPU MHz:             2028.702
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821327
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 32 1
+Executing the following command: ./Zagreus/main 2 1000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.34s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5940
+Domain intel-rapl:0 (package-0) energy consumption (j):  75.3672
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.0544
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.1543
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0711
+#Frecuency
+CPU MHz:             2140.690
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821330
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 32 1
+Executing the following command: ./Zagreus/main 2 2000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.67s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.8940
+Domain intel-rapl:0 (package-0) energy consumption (j): 144.9249
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.6128
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6556
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2422
+#Frecuency
+CPU MHz:             2007.934
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821335
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 32 1
+Executing the following command: ./Zagreus/main 2 5000 32 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9680
+Domain intel-rapl:0 (package-0) energy consumption (j): 359.6680
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0525
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.6434
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3178
+#Frecuency
+CPU MHz:             2203.715
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821347
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 32 2
+Executing the following command: ./Zagreus/main 2 500 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.17s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4060
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.4718
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.7851
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.1560
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0896
+#Frecuency
+CPU MHz:             2415.838
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821348
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 32 2
+Executing the following command: ./Zagreus/main 2 1000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.35s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.6070
+Domain intel-rapl:0 (package-0) energy consumption (j):  78.1001
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.9579
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.5009
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1787
+#Frecuency
+CPU MHz:             2112.625
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821351
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 32 2
+Executing the following command: ./Zagreus/main 2 2000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9540
+Domain intel-rapl:0 (package-0) energy consumption (j): 149.4610
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.1698
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.6090
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1694
+#Frecuency
+CPU MHz:             2123.586
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821356
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 32 2
+Executing the following command: ./Zagreus/main 2 5000 32 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9190
+Domain intel-rapl:0 (package-0) energy consumption (j): 361.5903
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.3373
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.7214
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3462
+#Frecuency
+CPU MHz:             2204.680
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821368
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 32 3
+Executing the following command: ./Zagreus/main 2 500 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.17s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.3930
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.0121
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.7237
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.0455
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0578
+#Frecuency
+CPU MHz:             2073.039
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821369
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 32 3
+Executing the following command: ./Zagreus/main 2 1000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5970
+Domain intel-rapl:0 (package-0) energy consumption (j):  77.1459
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.7058
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.2890
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1171
+#Frecuency
+CPU MHz:             2116.609
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821372
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 32 3
+Executing the following command: ./Zagreus/main 2 2000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.67s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9290
+Domain intel-rapl:0 (package-0) energy consumption (j): 148.2527
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0776
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.1365
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3026
+#Frecuency
+CPU MHz:             2194.242
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821377
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 32 3
+Executing the following command: ./Zagreus/main 2 5000 32 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.67s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9200
+Domain intel-rapl:0 (package-0) energy consumption (j): 359.9945
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2009
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.7662
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3495
+#Frecuency
+CPU MHz:             2057.668
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821389
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 32 4
+Executing the following command: ./Zagreus/main 2 500 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4590
+Domain intel-rapl:0 (package-0) energy consumption (j):  43.0484
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.5054
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.4428
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1013
+#Frecuency
+CPU MHz:             2435.484
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821390
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 32 4
+Executing the following command: ./Zagreus/main 2 1000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.31s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5590
+Domain intel-rapl:0 (package-0) energy consumption (j):  76.1326
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.7509
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.2993
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1971
+#Frecuency
+CPU MHz:             1812.281
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821393
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 32 4
+Executing the following command: ./Zagreus/main 2 2000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9450
+Domain intel-rapl:0 (package-0) energy consumption (j): 147.5842
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.8451
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.7183
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2009
+#Frecuency
+CPU MHz:             2026.210
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821398
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 32 4
+Executing the following command: ./Zagreus/main 2 5000 32 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.57s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.8010
+Domain intel-rapl:0 (package-0) energy consumption (j): 356.5284
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2117
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.6745
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3109
+#Frecuency
+CPU MHz:             2157.161
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821410
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 32 5
+Executing the following command: ./Zagreus/main 2 500 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.42s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.6570
+Domain intel-rapl:0 (package-0) energy consumption (j): 360.8826
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.9584
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.3601
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3496
+#Frecuency
+CPU MHz:             2056.217
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821422
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 32 5
+Executing the following command: ./Zagreus/main 2 1000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+22.69s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  22.9260
+Domain intel-rapl:0 (package-0) energy consumption (j): 693.2508
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2386
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 122.5517
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3455
+#Frecuency
+CPU MHz:             1959.143
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821445
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 32 5
+Executing the following command: ./Zagreus/main 2 2000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+46.50s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  46.7330
+Domain intel-rapl:0 (package-0) energy consumption (j): 1422.9064
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.4476
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 249.6291
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3416
+#Frecuency
+CPU MHz:             2098.003
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821492
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 32 5
+Executing the following command: ./Zagreus/main 2 5000 32 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+114.00s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 114.2660
+Domain intel-rapl:0 (package-0) energy consumption (j): 3458.9421
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2710
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 611.1685
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3486
+#Frecuency
+CPU MHz:             1401.469
+#64 size
+#1 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821606
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 64 1
+Executing the following command: ./Zagreus/main 2 500 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.17s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4110
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.9410
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.0156
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.2227
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1189
+#Frecuency
+CPU MHz:             2072.583
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821607
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 64 1
+Executing the following command: ./Zagreus/main 2 1000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.31s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5480
+Domain intel-rapl:0 (package-0) energy consumption (j):  75.7179
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.7166
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.3893
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2548
+#Frecuency
+CPU MHz:             2109.920
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821610
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 64 1
+Executing the following command: ./Zagreus/main 2 2000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9240
+Domain intel-rapl:0 (package-0) energy consumption (j): 149.1200
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2843
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  25.9379
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2676
+#Frecuency
+CPU MHz:             2179.512
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821615
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 64 1
+Executing the following command: ./Zagreus/main 2 5000 64 1 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9720
+Domain intel-rapl:0 (package-0) energy consumption (j): 360.1240
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0805
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.2680
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2847
+#Frecuency
+CPU MHz:             2177.557
+#2 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821627
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 64 2
+Executing the following command: ./Zagreus/main 2 500 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.17s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.3970
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.0731
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.4010
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.1092
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.0889
+#Frecuency
+CPU MHz:             2347.140
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821629
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 64 2
+Executing the following command: ./Zagreus/main 2 1000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5760
+Domain intel-rapl:0 (package-0) energy consumption (j):  75.7681
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.4131
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.3169
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1696
+#Frecuency
+CPU MHz:             1984.850
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821631
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 64 2
+Executing the following command: ./Zagreus/main 2 2000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.71s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9280
+Domain intel-rapl:0 (package-0) energy consumption (j): 150.5262
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.5451
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.0537
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2869
+#Frecuency
+CPU MHz:             1827.848
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821636
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 64 2
+Executing the following command: ./Zagreus/main 2 5000 64 2 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.58s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.8040
+Domain intel-rapl:0 (package-0) energy consumption (j): 356.6926
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2179
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.7105
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3126
+#Frecuency
+CPU MHz:             2161.352
+#3 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821648
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 64 3
+Executing the following command: ./Zagreus/main 2 500 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.18s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4130
+Domain intel-rapl:0 (package-0) energy consumption (j):  40.7974
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.8729
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.0389
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.9815
+#Frecuency
+CPU MHz:             2095.145
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821650
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 64 3
+Executing the following command: ./Zagreus/main 2 1000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.31s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5450
+Domain intel-rapl:0 (package-0) energy consumption (j):  76.7864
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.1715
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.4190
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.2727
+#Frecuency
+CPU MHz:             2499.495
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821652
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 64 3
+Executing the following command: ./Zagreus/main 2 2000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9110
+Domain intel-rapl:0 (package-0) energy consumption (j): 150.1853
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.5814
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.1829
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3315
+#Frecuency
+CPU MHz:             2063.222
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821657
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 64 3
+Executing the following command: ./Zagreus/main 2 5000 64 3 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.67s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9040
+Domain intel-rapl:0 (package-0) energy consumption (j): 361.8387
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.3964
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.6892
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3502
+#Frecuency
+CPU MHz:             1983.966
+#4 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821669
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 64 4
+Executing the following command: ./Zagreus/main 2 500 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+1.19s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   1.4360
+Domain intel-rapl:0 (package-0) energy consumption (j):  41.3156
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  28.7713
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):   7.0750
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   4.9268
+#Frecuency
+CPU MHz:             1840.137
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821671
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 64 4
+Executing the following command: ./Zagreus/main 2 1000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+2.36s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   2.5760
+Domain intel-rapl:0 (package-0) energy consumption (j):  76.4110
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  29.6627
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  13.2518
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.1443
+#Frecuency
+CPU MHz:             2004.851
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821673
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 64 4
+Executing the following command: ./Zagreus/main 2 2000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+4.68s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):   4.9140
+Domain intel-rapl:0 (package-0) energy consumption (j): 147.8624
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.0900
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  26.2055
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3328
+#Frecuency
+CPU MHz:             2312.763
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821678
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 64 4
+Executing the following command: ./Zagreus/main 2 5000 64 4 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.70s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.9200
+Domain intel-rapl:0 (package-0) energy consumption (j): 359.0494
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.1216
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  63.3305
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3130
+#Frecuency
+CPU MHz:             2069.134
+#5 mode
+#500 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821691
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 500 64 5
+Executing the following command: ./Zagreus/main 2 500 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+11.53s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  11.7850
+Domain intel-rapl:0 (package-0) energy consumption (j): 360.1529
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.5603
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j):  62.9861
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3446
+#Frecuency
+CPU MHz:             2185.890
+#1000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821702
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 1000 64 5
+Executing the following command: ./Zagreus/main 2 1000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+22.83s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  23.0540
+Domain intel-rapl:0 (package-0) energy consumption (j): 713.8949
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.9662
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 123.2887
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3478
+#Frecuency
+CPU MHz:             2195.281
+#2000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821726
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 2000 64 5
+Executing the following command: ./Zagreus/main 2 2000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+45.67s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s):  45.9080
+Domain intel-rapl:0 (package-0) energy consumption (j): 1402.3515
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.5470
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 245.3789
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3450
+#Frecuency
+CPU MHz:             2092.916
+#5000 times
+** RAPL-logger - 1 package - Sampling freq.  10.0 Hz - Logfiles 0-1: /tmp/rapllog+1652821772
+** RAPL-logger - Profiling: priscilla exec ./Zagreus/main 2 5000 64 5
+Executing the following command: ./Zagreus/main 2 5000 64 5 in directory /home/jarriaran/scratch using the container /opt/ohpc/pub/containers/SGG.sif
+
+113.42s 
+** RAPL-logger - Process terminated, computing results
+Recorded wall time (s): 113.6830
+Domain intel-rapl:0 (package-0) energy consumption (j): 3441.4445
+Domain intel-rapl:0 (package-0) avg. power consumption (W):  30.2723
+Domain intel-rapl:0/intel-rapl:0:0 (dram) energy consumption (j): 606.5180
+Domain intel-rapl:0/intel-rapl:0:0 (dram) avg. power consumption (W):   5.3352
+#Frecuency
+CPU MHz:             2488.375
