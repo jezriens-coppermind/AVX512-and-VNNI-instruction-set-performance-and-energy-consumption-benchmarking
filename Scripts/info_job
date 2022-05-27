@@ -1,0 +1,2 @@
+#!/bin/bash
+sacct -j $1 --format=JobID,Start,End,Elapsed,NCPUS

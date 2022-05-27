@@ -1,0 +1,51 @@
+#!/bin/sh
+dolar='$'
+cat <<File
+#!/bin/bash
+#SBATCH --job-name=zagreus
+#SBATCH --output=zagreus_node$2_$1_cores.out
+#SBATCH --ntasks=$1
+#SBATCH --threads-per-core=1
+#SBATCH --ntasks-per-core=1
+#SBATCH --mem-per-cpu=2G
+#SBATCH --partition=AVX
+#SBATCH --nodelist=node$2
+#SBATCH --exclusive
+CORE=$1
+echo "#AVX mode"
+for j in {1..5}
+do
+        echo "#${dolar}j mode"
+        for i in 500 1000 2000 5000
+        do
+                echo "#${dolar}i times"	
+        	for k in ${dolar}(seq 1 ${dolar}CORE)
+		do
+                	./Zagreus/rapl_logger.sh ./Zagreus/main 1 ${dolar}i 16 ${dolar}j &
+                done
+                wait
+                echo "#Frecuency"
+                lscpu | grep -e "CPU MHz:"
+        done
+done
+echo "#AVX+VNNI mode"
+for j in 8 16 32 64
+do
+        echo "#${dolar}j size"
+        for k in {1..5}
+        do
+                echo "#${dolar}k mode"
+                for i in 500 1000 2000 5000
+                do
+                        echo "#${dolar}i times"
+                        for l in ${dolar}(seq 1 ${dolar}CORE)
+                        do
+                                ./Zagreus/rapl_logger.sh ./Zagreus/main 2 ${dolar}i ${dolar}j ${dolar}k &
+                        done
+                        wait
+                        echo "#Frecuency"
+                	lscpu | grep -e "CPU MHz:"
+               done
+        done
+done
+File

@@ -1,0 +1,2 @@
+#!/bin/bash
+squeue --nodelist node$1 -o "%A %j %C %J"
